@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="#052B2B"
+    tools:context=".admin_kandidat">
+
+    <!-- SIDEBAR (KIRI) -->
+    <LinearLayout
+        android:id="@+id/sidebar"
+        android:layout_width="160dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#082424"
+        android:padding="16dp"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="A Admin"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="24dp" />
+
+        <!-- Menu: Kandidat (Aktif) -->
+        <LinearLayout
+            android:id="@+id/menuKandidat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:background="@drawable/bg_menu_active"
+            android:padding="12dp"
+            android:layout_marginBottom="8dp">
+            <View android:layout_width="8dp" android:layout_height="8dp" android:background="#F9B637" android:layout_marginEnd="8dp"/>
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Kandidat" android:textColor="#F9B637" android:textSize="16sp" android:textStyle="bold"/>
+        </LinearLayout>
+
+        <!-- Menu: Peserta -->
+        <LinearLayout
+            android:id="@+id/menuPeserta"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:padding="12dp"
+            android:layout_marginBottom="8dp"
+            android:clickable="true"
+            android:focusable="true">
+            <View android:layout_width="8dp" android:layout_height="8dp" android:background="#88FFFFFF" android:layout_marginEnd="8dp"/>
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Peserta" android:textColor="#88FFFFFF" android:textSize="16sp"/>
+        </LinearLayout>
+
+        <!-- Menu: Hasil -->
+        <LinearLayout
+            android:id="@+id/menuHasil"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:padding="12dp"
+            android:layout_marginBottom="8dp"
+            android:clickable="true"
+            android:focusable="true">
+            <View android:layout_width="8dp" android:layout_height="8dp" android:background="#88FFFFFF" android:layout_marginEnd="8dp"/>
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/results" android:textColor="#88FFFFFF" android:textSize="16sp"/>
+        </LinearLayout>
+
+        <View android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"/>
+
+        <!-- TOMBOL LOGOUT -->
+        <Button
+            android:id="@+id/btnLogout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Logout"
+            android:backgroundTint="#8B0000"
+            android:textColor="#FFFFFF"/>
+    </LinearLayout>
+
+    <!-- KONTEN UTAMA (KANAN) -->
+    <ScrollView
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="24dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_marginBottom="24dp">
+
+            <ImageView
+                android:id="@+id/btnToggleSidebar"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:src="@android:drawable/ic_menu_info_details"
+                app:tint="#F9B637"
+                android:layout_marginEnd="16dp"
+                android:clickable="true"
+                android:focusable="true"
+                android:contentDescription="Toggle Sidebar"
+                android:background="?attr/selectableItemBackgroundBorderless"/>
+
+            <TextView
+                android:id="@+id/tvTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Kelola Data Kandidat"
+                android:textColor="#F9B637"
+                android:textSize="22sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+            <!-- Card Input / Form -->
+            <com.google.android.material.card.MaterialCardView
+                android:id="@+id/cardForm"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardBackgroundColor="#1A000000"
+                app:cardCornerRadius="16dp"
+                app:cardElevation="8dp"
+                app:strokeColor="#F9B637"
+                app:strokeWidth="2dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="20dp">
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="12dp"
+                        app:boxBackgroundMode="outline"
+                        app:boxBackgroundColor="#00FFFFFF"
+                        app:boxCornerRadiusTopStart="10dp"
+                        app:boxCornerRadiusTopEnd="10dp"
+                        app:boxCornerRadiusBottomStart="10dp"
+                        app:boxCornerRadiusBottomEnd="10dp"
+                        app:boxStrokeColor="#F9B637"
+                        app:boxStrokeWidth="1dp"
+                        app:hintTextColor="#F9B637">
+
+                        <com.google.android.material.textfield.TextInputEditText
+                            android:id="@+id/etNoPaslon"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:hint="No Paslon"
+                            android:inputType="number"
+                            android:textColor="#FFFFFF"
+                            android:textColorHint="#88FFFFFF"
+                            android:textSize="14sp" />
+                    </com.google.android.material.textfield.TextInputLayout>
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="12dp"
+                        app:boxBackgroundMode="outline"
+                        app:boxBackgroundColor="#00FFFFFF"
+                        app:boxCornerRadiusTopStart="10dp"
+                        app:boxCornerRadiusTopEnd="10dp"
+                        app:boxCornerRadiusBottomStart="10dp"
+                        app:boxCornerRadiusBottomEnd="10dp"
+                        app:boxStrokeColor="#F9B637"
+                        app:boxStrokeWidth="1dp"
+                        app:hintTextColor="#F9B637">
+
+                        <com.google.android.material.textfield.TextInputEditText
+                            android:id="@+id/etNamaKetua"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:hint="Nama Ketua"
+                            android:textColor="#FFFFFF"
+                            android:textColorHint="#88FFFFFF"
+                            android:textSize="14sp" />
+                    </com.google.android.material.textfield.TextInputLayout>
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="12dp"
+                        app:boxBackgroundMode="outline"
+                        app:boxBackgroundColor="#00FFFFFF"
+                        app:boxCornerRadiusTopStart="10dp"
+                        app:boxCornerRadiusTopEnd="10dp"
+                        app:boxCornerRadiusBottomStart="10dp"
+                        app:boxCornerRadiusBottomEnd="10dp"
+                        app:boxStrokeColor="#F9B637"
+                        app:boxStrokeWidth="1dp"
+                        app:hintTextColor="#F9B637">
+
+                        <com.google.android.material.textfield.TextInputEditText
+                            android:id="@+id/etNamaWakil"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:hint="Nama Wakil"
+                            android:textColor="#FFFFFF"
+                            android:textColorHint="#88FFFFFF"
+                            android:textSize="14sp" />
+                    </com.google.android.material.textfield.TextInputLayout>
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="20dp"
+                        app:boxBackgroundMode="outline"
+                        app:boxBackgroundColor="#00FFFFFF"
+                        app:boxCornerRadiusTopStart="10dp"
+                        app:boxCornerRadiusTopEnd="10dp"
+                        app:boxCornerRadiusBottomStart="10dp"
+                        app:boxCornerRadiusBottomEnd="10dp"
+                        app:boxStrokeColor="#F9B637"
+                        app:boxStrokeWidth="1dp"
+                        app:hintTextColor="#F9B637">
+
+                        <com.google.android.material.textfield.TextInputEditText
+                            android:id="@+id/etVisiMisi"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:hint="Visi &amp; Misi"
+                            android:textColor="#FFFFFF"
+                            android:textColorHint="#88FFFFFF"
+                            android:textSize="14sp" />
+                    </com.google.android.material.textfield.TextInputLayout>
+
+                    <com.google.android.material.button.MaterialButton
+                        android:id="@+id/btnSimpanKandidat"
+                        android:layout_width="match_parent"
+                        android:layout_height="48dp"
+                        android:text="Simpan Kandidat"
+                        android:textAllCaps="false"
+                        android:textColor="#052B2B"
+                        android:textSize="14sp"
+                        android:textStyle="bold"
+                        app:backgroundTint="#F9B637"
+                        app:cornerRadius="24dp" />
+
+                </LinearLayout>
+            </com.google.android.material.card.MaterialCardView>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

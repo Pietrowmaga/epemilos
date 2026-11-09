@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Shadow/Glow Layer -->
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="#40F9B637" />
+        </shape>
+    </item>
+    <!-- Main Circle -->
+    <item
+        android:left="2dp"
+        android:top="2dp"
+        android:right="2dp"
+        android:bottom="2dp">
+        <shape android:shape="oval">
+            <solid android:color="#F9B637" />
+            <stroke
+                android:width="1.5dp"
+                android:color="#FFFFFF" />
+        </shape>
+    </item>
+</layer-list>

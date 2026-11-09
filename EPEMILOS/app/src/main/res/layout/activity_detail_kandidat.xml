@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#052B2B">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp"
+        android:gravity="center_horizontal">
+
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="220dp"
+            android:layout_height="220dp"
+            app:cardCornerRadius="110dp"
+            app:cardElevation="8dp"
+            app:strokeColor="#F9B637"
+            app:strokeWidth="3dp"
+            android:layout_marginBottom="24dp">
+
+            <ImageView
+                android:id="@+id/ivDetailFoto"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@android:drawable/ic_menu_gallery"
+                android:scaleType="centerCrop"
+                android:background="#082424"/>
+        </com.google.android.material.card.MaterialCardView>
+
+        <TextView
+            android:id="@+id/tvDetailNama"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Nama Paslon"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textColor="#F9B637"
+            android:gravity="center"
+            android:layout_marginBottom="32dp"/>
+
+        <!-- VISI -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="#082424"
+            android:padding="16dp"
+            android:layout_marginBottom="16dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="VISI"
+                android:textStyle="bold"
+                android:textSize="16sp"
+                android:textColor="#F9B637"
+                android:layout_marginBottom="8dp"/>
+
+            <TextView
+                android:id="@+id/tvDetailVisi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Mewujudkan OSIS yang aktif dan inovatif."
+                android:textColor="#FFFFFF"
+                android:textSize="14sp"/>
+        </LinearLayout>
+
+        <!-- MISI -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="#082424"
+            android:padding="16dp"
+            android:layout_marginBottom="16dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="MISI"
+                android:textStyle="bold"
+                android:textSize="16sp"
+                android:textColor="#F9B637"
+                android:layout_marginBottom="8dp"/>
+
+            <TextView
+                android:id="@+id/tvDetailMisi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="1. Meningkatkan kedisiplinan siswa.\n2. Mengadakan kegiatan seni dan olahraga."
+                android:textColor="#FFFFFF"
+                android:textSize="14sp"/>
+        </LinearLayout>
+
+        <!-- PROKER -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="#082424"
+            android:padding="16dp"
+            android:layout_marginBottom="32dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="PROGRAM KERJA"
+                android:textStyle="bold"
+                android:textSize="16sp"
+                android:textColor="#F9B637"
+                android:layout_marginBottom="8dp"/>
+
+            <TextView
+                android:id="@+id/tvDetailProker"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Pentas Seni Tahunan, Lomba Kebersihan Kelas."
+                android:textColor="#FFFFFF"
+                android:textSize="14sp"/>
+        </LinearLayout>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnPilih"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:text="PILIH KANDIDAT"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="#052B2B"
+            app:backgroundTint="#F9B637"
+            app:cornerRadius="28dp"
+            android:layout_marginBottom="24dp"/>
+
+    </LinearLayout>
+</ScrollView>

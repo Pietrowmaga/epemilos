@@ -1,0 +1,7812 @@
+[
+  {
+"nama": "ALVINO ANDESKA",
+"status": "Siswa",
+"token": "742813"
+},
+{
+"nama": "AMANDA TELLY SAFITRI",
+"status": "Siswa",
+"token": "891446"
+},
+{
+"nama": "Andara Widianti Sutiono",
+"status": "Siswa",
+"token": "445992"
+},
+{
+"nama": "Anugrah Pernando",
+"status": "Siswa",
+"token": "529377"
+},
+{
+"nama": "AQILAH ANNIE SYAHFITRI",
+"status": "Siswa",
+"token": "916583"
+},
+{
+"nama": "Asrita Salsabilah",
+"status": "Siswa",
+"token": "001464"
+},
+{
+"nama": "DELVI SYNTIA PUTRI",
+"status": "Siswa",
+"token": "359718"
+},
+{
+"nama": "DEWI PURNAMA JAGAD MERINDU",
+"status": "Siswa",
+"token": "233951"
+},
+{
+"nama": "FLORA APRILIASTI",
+"status": "Siswa",
+"token": "145631"
+},
+{
+"nama": "Ghina Meilinda Sari",
+"status": "Siswa",
+"token": "686010"
+},
+{
+"nama": "GINA OKTA RISYAH",
+"status": "Siswa",
+"token": "870941"
+},
+{
+"nama": "MARSYA GRACIA INDRY",
+"status": "Siswa",
+"token": "605453"
+},
+{
+"nama": "MUHAMMAD ALJAZEERA PRATAMA",
+"status": "Siswa",
+"token": "439132"
+},
+{
+"nama": "MUHAMMAD AZRIEL ALFIKRI",
+"status": "Siswa",
+"token": "104920"
+},
+{
+"nama": "Muhammad Riduan Dinata",
+"status": "Siswa",
+"token": "924568"
+},
+{
+"nama": "NADILA SALSABILA",
+"status": "Siswa",
+"token": "258750"
+},
+{
+"nama": "NAYLA AMIRA SAKHI",
+"status": "Siswa",
+"token": "989572"
+},
+{
+"nama": "Nayla Pitri Andini",
+"status": "Siswa",
+"token": "745656"
+},
+{
+"nama": "NUR HASBI DESTRA PRATAMA",
+"status": "Siswa",
+"token": "722974"
+},
+{
+"nama": "Nyimas Lathifah Azhari",
+"status": "Siswa",
+"token": "450139"
+},
+{
+"nama": "PUTRA RISQI SUBAKTI",
+"status": "Siswa",
+"token": "341243"
+},
+{
+"nama": "RAFFA FITRAH ADITYA",
+"status": "Siswa",
+"token": "314636"
+},
+{
+"nama": "RAUDYATUZZAHRA RAHMADANIA",
+"status": "Siswa",
+"token": "542423"
+},
+{
+"nama": "RHEYFALDO ALVIAN",
+"status": "Siswa",
+"token": "345994"
+},
+{
+"nama": "RIFKA NAILA",
+"status": "Siswa",
+"token": "034987"
+},
+{
+"nama": "Safira Oktarianty",
+"status": "Siswa",
+"token": "692624"
+},
+{
+"nama": "Saskia Aurellia Rahman",
+"status": "Siswa",
+"token": "136968"
+},
+{
+"nama": "SATRIA BERMAN",
+"status": "Siswa",
+"token": "073279"
+},
+{
+"nama": "SERLI RISKI RAMADANI",
+"status": "Siswa",
+"token": "930831"
+},
+{
+"nama": "SHAQILA ALEEZA HIDAYAH JOINTO",
+"status": "Siswa",
+"token": "290000"
+},
+{
+"nama": "SITI RANIAH RADINASYAH",
+"status": "Siswa",
+"token": "082110"
+},
+{
+"nama": "Srini Aulia Ramadhanti",
+"status": "Siswa",
+"token": "499042"
+},
+{
+"nama": "SYAHFIRA RISMADINA",
+"status": "Siswa",
+"token": "449908"
+},
+{
+"nama": "SYIFA NAMIYAH ZAHWA",
+"status": "Siswa",
+"token": "065680"
+},
+{
+"nama": "SYIFANA OLIVIA",
+"status": "Siswa",
+"token": "659446"
+},
+{
+"nama": "TEGAR MUZAQI RAHMAN",
+"status": "Siswa",
+"token": "524252"
+},
+{
+"nama": "Adha Ismail Jundi",
+"status": "Siswa",
+"token": "929075"
+},
+{
+"nama": "AIDIL FATHAN ASYAKURI",
+"status": "Siswa",
+"token": "616114"
+},
+{
+"nama": "ARVEL DERY PUTRA PRATAMA",
+"status": "Siswa",
+"token": "662803"
+},
+{
+"nama": "AULIA CAHYA FADILA",
+"status": "Siswa",
+"token": "539532"
+},
+{
+"nama": "AZIRA YULANDA",
+"status": "Siswa",
+"token": "873325"
+},
+{
+"nama": "AZIZAH RIZKI BAROKAH",
+"status": "Siswa",
+"token": "058915"
+},
+{
+"nama": "Azkari F. Akbar",
+"status": "Siswa",
+"token": "807749"
+},
+{
+"nama": "AZZHA DHARA APRILIYA",
+"status": "Siswa",
+"token": "714859"
+},
+{
+"nama": "Dewi Salsabila",
+"status": "Siswa",
+"token": "599129"
+},
+{
+"nama": "DIMAS PRANATA",
+"status": "Siswa",
+"token": "186279"
+},
+{
+"nama": "Dora Monika",
+"status": "Siswa",
+"token": "133409"
+},
+{
+"nama": "DZAKY FADHILLAH ALFINDI",
+"status": "Siswa",
+"token": "414658"
+},
+{
+"nama": "ELVRIDA CINTYA NOMI SIANIPAR",
+"status": "Siswa",
+"token": "873025"
+},
+{
+"nama": "FAZILLAH RAMADHINI",
+"status": "Siswa",
+"token": "890076"
+},
+{
+"nama": "Febri Juliarnol Simatupang",
+"status": "Siswa",
+"token": "228638"
+},
+{
+"nama": "Iba Ilahi Putra",
+"status": "Siswa",
+"token": "698888"
+},
+{
+"nama": "JAGAT ALIT GAVIN HERLAMBANG",
+"status": "Siswa",
+"token": "612809"
+},
+{
+"nama": "KELVIN NOVIANTO",
+"status": "Siswa",
+"token": "663678"
+},
+{
+"nama": "Keysha Sabitha Azzahra",
+"status": "Siswa",
+"token": "652048"
+},
+{
+"nama": "NABILA ZAKIA RAHMADANI",
+"status": "Siswa",
+"token": "465894"
+},
+{
+"nama": "NABILA ZHIRA RAMADHANI",
+"status": "Siswa",
+"token": "386075"
+},
+{
+"nama": "NASSIA IZZAH PUTRI",
+"status": "Siswa",
+"token": "526982"
+},
+{
+"nama": "NATASYAH AGIL NAFFEZAH",
+"status": "Siswa",
+"token": "777591"
+},
+{
+"nama": "NAYLA QOIRUNNISA",
+"status": "Siswa",
+"token": "778775"
+},
+{
+"nama": "Peli Julia Putri",
+"status": "Siswa",
+"token": "943309"
+},
+{
+"nama": "Putra Wahyu Anuggra",
+"status": "Siswa",
+"token": "696953"
+},
+{
+"nama": "RAISSA SHARIKHA",
+"status": "Siswa",
+"token": "840895"
+},
+{
+"nama": "REGINA PUTRI PASMA",
+"status": "Siswa",
+"token": "597906"
+},
+{
+"nama": "RENA TRI AGITA",
+"status": "Siswa",
+"token": "434643"
+},
+{
+"nama": "Sandra Depa Auliyah",
+"status": "Siswa",
+"token": "011225"
+},
+{
+"nama": "Sella Dwi Nur Sabrina",
+"status": "Siswa",
+"token": "707671"
+},
+{
+"nama": "Shakina Cahaya",
+"status": "Siswa",
+"token": "363709"
+},
+{
+"nama": "Suci Fadillah",
+"status": "Siswa",
+"token": "635534"
+},
+{
+"nama": "VIONA PUTRI ARRAHMAN",
+"status": "Siswa",
+"token": "879248"
+},
+{
+"nama": "WELSYA JULIONI NACHUA",
+"status": "Siswa",
+"token": "640132"
+},
+{
+"nama": "YOSI REWITRI",
+"status": "Siswa",
+"token": "063820"
+},
+{
+"nama": "ADELARD ZHAFIF",
+"status": "Siswa",
+"token": "512186"
+},
+{
+"nama": "Airin Yunia Putri",
+"status": "Siswa",
+"token": "794446"
+},
+{
+"nama": "ALIYA DIANRA",
+"status": "Siswa",
+"token": "545684"
+},
+{
+"nama": "Altaf Dwi Ramadhan",
+"status": "Siswa",
+"token": "016703"
+},
+{
+"nama": "AMAR WICAKSANA",
+"status": "Siswa",
+"token": "586401"
+},
+{
+"nama": "Appelia Putri",
+"status": "Siswa",
+"token": "172353"
+},
+{
+"nama": "AQILLA DWI NEPA ANGRAINI",
+"status": "Siswa",
+"token": "588350"
+},
+{
+"nama": "ARIL MAHENRA",
+"status": "Siswa",
+"token": "876429"
+},
+{
+"nama": "BIMA AKBAR",
+"status": "Siswa",
+"token": "123100"
+},
+{
+"nama": "BRAYEN PRADIKA",
+"status": "Siswa",
+"token": "625463"
+},
+{
+"nama": "CAHYA ARUM KINANTI",
+"status": "Siswa",
+"token": "355050"
+},
+{
+"nama": "Celicza Morin",
+"status": "Siswa",
+"token": "502001"
+},
+{
+"nama": "DELSI JULIANTI",
+"status": "Siswa",
+"token": "062174"
+},
+{
+"nama": "DIMAS AFGAN SAPUTRA",
+"status": "Siswa",
+"token": "204561"
+},
+{
+"nama": "Dira Anjani",
+"status": "Siswa",
+"token": "455017"
+},
+{
+"nama": "DUTA RISQI ALQOWI",
+"status": "Siswa",
+"token": "150122"
+},
+{
+"nama": "ELSA WIDIARTI",
+"status": "Siswa",
+"token": "042789"
+},
+{
+"nama": "FAIZ ALTAIR",
+"status": "Siswa",
+"token": "161577"
+},
+{
+"nama": "Gilang Putra Kesuma",
+"status": "Siswa",
+"token": "809487"
+},
+{
+"nama": "IBRAHIM KEANU HAMKA",
+"status": "Siswa",
+"token": "415238"
+},
+{
+"nama": "INAYAH ALFIATUNNISA",
+"status": "Siswa",
+"token": "125220"
+},
+{
+"nama": "KEIJI LUTHFIE ANTONI",
+"status": "Siswa",
+"token": "519005"
+},
+{
+"nama": "LINGSI KURNIA",
+"status": "Siswa",
+"token": "972439"
+},
+{
+"nama": "MARWA HAZARA",
+"status": "Siswa",
+"token": "305412"
+},
+{
+"nama": "Muhammad Al-mido Azzahir",
+"status": "Siswa",
+"token": "388143"
+},
+{
+"nama": "Muhammad Aprezi",
+"status": "Siswa",
+"token": "381513"
+},
+{
+"nama": "MUHAMMAD ARSHAVIN MADAN",
+"status": "Siswa",
+"token": "054822"
+},
+{
+"nama": "Muhammad Fajar Bayu Samudro",
+"status": "Siswa",
+"token": "311665"
+},
+{
+"nama": "NAYLA ZAHRA ANINDYA",
+"status": "Siswa",
+"token": "868892"
+},
+{
+"nama": "Ongki Prayoga",
+"status": "Siswa",
+"token": "037848"
+},
+{
+"nama": "Paisal Riskiyansyah",
+"status": "Siswa",
+"token": "282074"
+},
+{
+"nama": "PUTRI AGATHA DAHAYU SUPONO",
+"status": "Siswa",
+"token": "554569"
+},
+{
+"nama": "PUTRI DESTRY ANGRAINI",
+"status": "Siswa",
+"token": "807870"
+},
+{
+"nama": "RAJIB RAHMAD",
+"status": "Siswa",
+"token": "792182"
+},
+{
+"nama": "Rory Ahmad Muzaffar",
+"status": "Siswa",
+"token": "374627"
+},
+{
+"nama": "SKYZHEN PUTRA",
+"status": "Siswa",
+"token": "940582"
+},
+{
+"nama": "ADIO PRAKARSA",
+"status": "Siswa",
+"token": "194057"
+},
+{
+"nama": "AIMAN ZIKRI ABDILLAH",
+"status": "Siswa",
+"token": "974527"
+},
+{
+"nama": "Akbar Zuhri Maulana",
+"status": "Siswa",
+"token": "566824"
+},
+{
+"nama": "AMIRUL AKBAR",
+"status": "Siswa",
+"token": "457100"
+},
+{
+"nama": "ANDIN CAHYA NABILA",
+"status": "Siswa",
+"token": "763186"
+},
+{
+"nama": "Arista Safa Iksandy",
+"status": "Siswa",
+"token": "744130"
+},
+{
+"nama": "DANAR APRIANTO",
+"status": "Siswa",
+"token": "428952"
+},
+{
+"nama": "DIKA LUCKY PERDANA",
+"status": "Siswa",
+"token": "061227"
+},
+{
+"nama": "DZAKWAN KHAIRI ABDULLAH",
+"status": "Siswa",
+"token": "459006"
+},
+{
+"nama": "Farhan Pratama Wijaya",
+"status": "Siswa",
+"token": "048283"
+},
+{
+"nama": "FATHIYYA MAISHA ADZRA SIREGAR",
+"status": "Siswa",
+"token": "939594"
+},
+{
+"nama": "HAMID UMAR GHANI",
+"status": "Siswa",
+"token": "647188"
+},
+{
+"nama": "IBNU AGUNG PRATAMA",
+"status": "Siswa",
+"token": "968074"
+},
+{
+"nama": "KHANSA ASHIRA ALTHAFUNNISA",
+"status": "Siswa",
+"token": "290546"
+},
+{
+"nama": "KHAYLA MUTIARA ASMARA",
+"status": "Siswa",
+"token": "373287"
+},
+{
+"nama": "KIRAN MARIA PALINT",
+"status": "Siswa",
+"token": "493002"
+},
+{
+"nama": "Muhammad Afif Alhakim",
+"status": "Siswa",
+"token": "737106"
+},
+{
+"nama": "Muhammad Khadafi Daffa Alvaro",
+"status": "Siswa",
+"token": "789920"
+},
+{
+"nama": "MUHAMMAD RIFAIIZ SADDAM SUARDI",
+"status": "Siswa",
+"token": "398889"
+},
+{
+"nama": "MUHAMMAD RISKY ALFAREL",
+"status": "Siswa",
+"token": "985766"
+},
+{
+"nama": "NAFLAH ZAHRAN AL HENDRI",
+"status": "Siswa",
+"token": "450838"
+},
+{
+"nama": "QORRI ASSALWA SUDRAJAT",
+"status": "Siswa",
+"token": "511690"
+},
+{
+"nama": "RAFIF FATHURRAHMAN FARRAS",
+"status": "Siswa",
+"token": "562470"
+},
+{
+"nama": "RASYA FRISKY ANDORA",
+"status": "Siswa",
+"token": "460127"
+},
+{
+"nama": "Rizka Najla Al-Inayah",
+"status": "Siswa",
+"token": "369411"
+},
+{
+"nama": "SABRINA",
+"status": "Siswa",
+"token": "523919"
+},
+{
+"nama": "SANIA OKALINA IVANKA",
+"status": "Siswa",
+"token": "541891"
+},
+{
+"nama": "SENO ADJI IBRAHIM SUPRIYANTO",
+"status": "Siswa",
+"token": "259876"
+},
+{
+"nama": "SHELLA TIFANIA ADAM",
+"status": "Siswa",
+"token": "792382"
+},
+{
+"nama": "SHIREN QINESHA HARDIAN",
+"status": "Siswa",
+"token": "782558"
+},
+{
+"nama": "Syahla Syakira",
+"status": "Siswa",
+"token": "700668"
+},
+{
+"nama": "SYAHRINI",
+"status": "Siswa",
+"token": "093699"
+},
+{
+"nama": "TABINA HAKIMAH",
+"status": "Siswa",
+"token": "955412"
+},
+{
+"nama": "YUKI ZAFIRAH SYIFANI",
+"status": "Siswa",
+"token": "553410"
+},
+{
+"nama": "Zefirino Leandra Azura Fajri",
+"status": "Siswa",
+"token": "694953"
+},
+{
+"nama": "ZIVANA KHAIRA",
+"status": "Siswa",
+"token": "083862"
+},
+{
+"nama": "Abel Rukmawati",
+"status": "Siswa",
+"token": "989217"
+},
+{
+"nama": "Aditya Adiaksyah",
+"status": "Siswa",
+"token": "880215"
+},
+{
+"nama": "AISYAH MUJAHIDAH AMILA ROHMAH",
+"status": "Siswa",
+"token": "857201"
+},
+{
+"nama": "ALIF AKSYARIF ABILIBIA",
+"status": "Siswa",
+"token": "419428"
+},
+{
+"nama": "AR-RAFFI ADAM FAIRUZ",
+"status": "Siswa",
+"token": "025751"
+},
+{
+"nama": "Ayu Herti Novila",
+"status": "Siswa",
+"token": "021662"
+},
+{
+"nama": "ELVAN KIANO",
+"status": "Siswa",
+"token": "372146"
+},
+{
+"nama": "FANNY PUTRI HARSELA SURYANI",
+"status": "Siswa",
+"token": "023952"
+},
+{
+"nama": "Fazli Akbar Badwi",
+"status": "Siswa",
+"token": "477669"
+},
+{
+"nama": "HANNAFI AFDE PRIMA",
+"status": "Siswa",
+"token": "292812"
+},
+{
+"nama": "HERNANDA AUDI PUTRI DESTASYA",
+"status": "Siswa",
+"token": "767150"
+},
+{
+"nama": "INAYAH PUTRI APRILIA",
+"status": "Siswa",
+"token": "345613"
+},
+{
+"nama": "JELINDA ARESI",
+"status": "Siswa",
+"token": "733170"
+},
+{
+"nama": "KEVIN MIFTAHUL FARQI",
+"status": "Siswa",
+"token": "717052"
+},
+{
+"nama": "Keysha Aurellia Putri Dearie",
+"status": "Siswa",
+"token": "892940"
+},
+{
+"nama": "KHELVIN ALZAKY M.Y",
+"status": "Siswa",
+"token": "986172"
+},
+{
+"nama": "KHEYZHIA ZALFA PUTRI FAIZAH",
+"status": "Siswa",
+"token": "436989"
+},
+{
+"nama": "M. RIZKI AKBAR",
+"status": "Siswa",
+"token": "130431"
+},
+{
+"nama": "MUHAMMAD ALPINO AKBAR",
+"status": "Siswa",
+"token": "760944"
+},
+{
+"nama": "MUHAMMAD IHSAN",
+"status": "Siswa",
+"token": "780851"
+},
+{
+"nama": "Muhammad Nabil Yaumil Sya'ban",
+"status": "Siswa",
+"token": "239269"
+},
+{
+"nama": "MUHAMMAD NAUFAL HARYULISTIO",
+"status": "Siswa",
+"token": "750957"
+},
+{
+"nama": "MUHAMMAD RAFFA",
+"status": "Siswa",
+"token": "138533"
+},
+{
+"nama": "Muhammad Rafif Hanif",
+"status": "Siswa",
+"token": "708687"
+},
+{
+"nama": "MUHAMMAD RAFIKY",
+"status": "Siswa",
+"token": "018062"
+},
+{
+"nama": "MUHAMMAD RIDHO HARSUNENDAR",
+"status": "Siswa",
+"token": "523928"
+},
+{
+"nama": "NAFIRA LINDARA PUTRI",
+"status": "Siswa",
+"token": "840764"
+},
+{
+"nama": "PAHRI MARSA",
+"status": "Siswa",
+"token": "707891"
+},
+{
+"nama": "PIRLO DEVAN RIMECI",
+"status": "Siswa",
+"token": "202351"
+},
+{
+"nama": "RAFFI CHOIRUL IKHSAN",
+"status": "Siswa",
+"token": "912047"
+},
+{
+"nama": "Rasti Nur Khotimah",
+"status": "Siswa",
+"token": "429939"
+},
+{
+"nama": "RISKY AL-AZIZ MAULANA",
+"status": "Siswa",
+"token": "199115"
+},
+{
+"nama": "Yeremia Rafael Pasaribu",
+"status": "Siswa",
+"token": "540861"
+},
+{
+"nama": "YUSUAN GILBERT ANINDREA",
+"status": "Siswa",
+"token": "619664"
+},
+{
+"nama": "Zharvan Maulana Ardanza",
+"status": "Siswa",
+"token": "987449"
+},
+{
+"nama": "ZHAVIRA VALONIA PUTRI",
+"status": "Siswa",
+"token": "980365"
+},
+{
+"nama": "AFIFAH RIVKA SALSABILA",
+"status": "Siswa",
+"token": "326173"
+},
+{
+"nama": "ALIKA MAHARANI",
+"status": "Siswa",
+"token": "752801"
+},
+{
+"nama": "ALVIAN JUNIAR RAJAB WIBAWA",
+"status": "Siswa",
+"token": "868172"
+},
+{
+"nama": "Anizza Azahira",
+"status": "Siswa",
+"token": "490803"
+},
+{
+"nama": "Aulia Rapika Oktapiana",
+"status": "Siswa",
+"token": "096189"
+},
+{
+"nama": "Ayu Handayani",
+"status": "Siswa",
+"token": "003349"
+},
+{
+"nama": "Chania Aniendya Vilota Apnis",
+"status": "Siswa",
+"token": "732408"
+},
+{
+"nama": "chantika irama",
+"status": "Siswa",
+"token": "159154"
+},
+{
+"nama": "DAFFA MUHAMMAD THORIQ",
+"status": "Siswa",
+"token": "000710"
+},
+{
+"nama": "FATHONAH DWI PUTRI",
+"status": "Siswa",
+"token": "995536"
+},
+{
+"nama": "Geycia Aprillian",
+"status": "Siswa",
+"token": "105514"
+},
+{
+"nama": "Hamim",
+"status": "Siswa",
+"token": "405769"
+},
+{
+"nama": "HANINA ALTA FUNISA",
+"status": "Siswa",
+"token": "155836"
+},
+{
+"nama": "Heppy",
+"status": "Siswa",
+"token": "882586"
+},
+{
+"nama": "Lufi Meutia Irina",
+"status": "Siswa",
+"token": "191643"
+},
+{
+"nama": "Mejel Lovendes",
+"status": "Siswa",
+"token": "747034"
+},
+{
+"nama": "Muhammad Abdulfakhri Ijlal",
+"status": "Siswa",
+"token": "320304"
+},
+{
+"nama": "MUHAMMAD ZHAFIF KHAIRAN AL FARABHI",
+"status": "Siswa",
+"token": "744510"
+},
+{
+"nama": "NEYSHA ELIIF PRANATA",
+"status": "Siswa",
+"token": "845740"
+},
+{
+"nama": "OLEN KAUSA RAMADHAN",
+"status": "Siswa",
+"token": "359592"
+},
+{
+"nama": "OLIFVIA JUNINTAN",
+"status": "Siswa",
+"token": "078724"
+},
+{
+"nama": "PANI",
+"status": "Siswa",
+"token": "213082"
+},
+{
+"nama": "QUEENA ZALICIA LEOSA AURORA",
+"status": "Siswa",
+"token": "451108"
+},
+{
+"nama": "Rahayu M. Lena",
+"status": "Siswa",
+"token": "394110"
+},
+{
+"nama": "RAMA ZIVANNO JOVANDIE",
+"status": "Siswa",
+"token": "207006"
+},
+{
+"nama": "RANGGA SATRIA",
+"status": "Siswa",
+"token": "159026"
+},
+{
+"nama": "Salsabila Athira Reliatama",
+"status": "Siswa",
+"token": "369342"
+},
+{
+"nama": "SALSABILA FIRMANSYAH",
+"status": "Siswa",
+"token": "516241"
+},
+{
+"nama": "Salsabillah Kaila Alifah",
+"status": "Siswa",
+"token": "080025"
+},
+{
+"nama": "SIZKY NOPRIAN SAPUTRA",
+"status": "Siswa",
+"token": "801223"
+},
+{
+"nama": "Suci Ulan Romadani",
+"status": "Siswa",
+"token": "393977"
+},
+{
+"nama": "Vina Putri Lestari",
+"status": "Siswa",
+"token": "037705"
+},
+{
+"nama": "VIOLITA RICHA REVALYE",
+"status": "Siswa",
+"token": "448204"
+},
+{
+"nama": "ZALFA MEILANI",
+"status": "Siswa",
+"token": "586661"
+},
+{
+"nama": "ZEBIE IREN NUGRAHA",
+"status": "Siswa",
+"token": "562526"
+},
+{
+"nama": "Ziva Quenisya",
+"status": "Siswa",
+"token": "003489"
+},
+{
+"nama": "ADINDA ZAHWA AQILA",
+"status": "Siswa",
+"token": "608693"
+},
+{
+"nama": "Afrilia Cahyani",
+"status": "Siswa",
+"token": "671752"
+},
+{
+"nama": "ALVIN APRIANZAH",
+"status": "Siswa",
+"token": "529751"
+},
+{
+"nama": "ALVIO MELVINO PASARIBU",
+"status": "Siswa",
+"token": "441032"
+},
+{
+"nama": "ANDRE JUL SAPUTRA",
+"status": "Siswa",
+"token": "472315"
+},
+{
+"nama": "ASTRID LAROS",
+"status": "Siswa",
+"token": "873835"
+},
+{
+"nama": "AULIA PERMATA SARI",
+"status": "Siswa",
+"token": "852773"
+},
+{
+"nama": "Baihaqqi Zaidan",
+"status": "Siswa",
+"token": "356081"
+},
+{
+"nama": "Cristika Aulia Azahri",
+"status": "Siswa",
+"token": "007041"
+},
+{
+"nama": "Delvita Veronika Boru Sitorus",
+"status": "Siswa",
+"token": "001348"
+},
+{
+"nama": "DEVILA NADIA PRATIWI",
+"status": "Siswa",
+"token": "612462"
+},
+{
+"nama": "DIRA SELPIA",
+"status": "Siswa",
+"token": "425321"
+},
+{
+"nama": "DISYA IRSTI DWIARYANI",
+"status": "Siswa",
+"token": "274363"
+},
+{
+"nama": "Fanny Febiola Sari",
+"status": "Siswa",
+"token": "968107"
+},
+{
+"nama": "GITA PRAZENZA",
+"status": "Siswa",
+"token": "306596"
+},
+{
+"nama": "KESYHA ALIF AFRIYANI",
+"status": "Siswa",
+"token": "441368"
+},
+{
+"nama": "KHAIRUNNISA SALSABILA",
+"status": "Siswa",
+"token": "793747"
+},
+{
+"nama": "LALA APRIYANI",
+"status": "Siswa",
+"token": "830873"
+},
+{
+"nama": "M.FAIZAL",
+"status": "Siswa",
+"token": "581219"
+},
+{
+"nama": "MARCEEL AYZOSTA PRATAMA",
+"status": "Siswa",
+"token": "657357"
+},
+{
+"nama": "Marsella Patresia",
+"status": "Siswa",
+"token": "720976"
+},
+{
+"nama": "MUHAMMAD AIDIL BAHTIAR MUTIARA SAKTI",
+"status": "Siswa",
+"token": "385727"
+},
+{
+"nama": "MUHAMMAD FADHIL KHOMEINI",
+"status": "Siswa",
+"token": "781805"
+},
+{
+"nama": "Muhammad Faiz Alkhoiri",
+"status": "Siswa",
+"token": "040254"
+},
+{
+"nama": "MUHAMMAD RAFFA PUTRA PRANATA",
+"status": "Siswa",
+"token": "937148"
+},
+{
+"nama": "NAYYARA GARNETA DEMAISYA",
+"status": "Siswa",
+"token": "453187"
+},
+{
+"nama": "OLIVIAH SAPITRI",
+"status": "Siswa",
+"token": "366385"
+},
+{
+"nama": "RAKHA LINGGA MAHARDIKA",
+"status": "Siswa",
+"token": "315950"
+},
+{
+"nama": "ramdhan aiman",
+"status": "Siswa",
+"token": "617513"
+},
+{
+"nama": "Riska Helena Riski",
+"status": "Siswa",
+"token": "547378"
+},
+{
+"nama": "SEPTIA PITRIANA",
+"status": "Siswa",
+"token": "078452"
+},
+{
+"nama": "SILVI CAMELIA",
+"status": "Siswa",
+"token": "915161"
+},
+{
+"nama": "SITI NURKHALIZA",
+"status": "Siswa",
+"token": "818757"
+},
+{
+"nama": "Sri Wahyuni",
+"status": "Siswa",
+"token": "247119"
+},
+{
+"nama": "SYOFI TRI NANDA",
+"status": "Siswa",
+"token": "102285"
+},
+{
+"nama": "ZHEFIRO VADEN",
+"status": "Siswa",
+"token": "719649"
+},
+{
+"nama": "AZZAM FATIH ARSYANTYO",
+"status": "Siswa",
+"token": "397074"
+},
+{
+"nama": "CHESYA RAMADHANI",
+"status": "Siswa",
+"token": "908289"
+},
+{
+"nama": "Dea",
+"status": "Siswa",
+"token": "774255"
+},
+{
+"nama": "DERLIAN DIKA PRATAMA",
+"status": "Siswa",
+"token": "507714"
+},
+{
+"nama": "Dinda Putri Yolanda",
+"status": "Siswa",
+"token": "406172"
+},
+{
+"nama": "DWIKY AFRILIAN VEREZ",
+"status": "Siswa",
+"token": "169890"
+},
+{
+"nama": "ENJEL LIA MUSTIKA",
+"status": "Siswa",
+"token": "746157"
+},
+{
+"nama": "FANNY DWITA AMELIA",
+"status": "Siswa",
+"token": "342506"
+},
+{
+"nama": "IDHAM SABIQ",
+"status": "Siswa",
+"token": "208822"
+},
+{
+"nama": "Inaayah Vritha Zakiyya",
+"status": "Siswa",
+"token": "935806"
+},
+{
+"nama": "INDAH DWI RAHMAWATI",
+"status": "Siswa",
+"token": "622247"
+},
+{
+"nama": "JELITA NAURA FITRIANI",
+"status": "Siswa",
+"token": "957315"
+},
+{
+"nama": "Kayla Febriani Azzahra",
+"status": "Siswa",
+"token": "065132"
+},
+{
+"nama": "KHEYLA ZASKYA AFRIADI",
+"status": "Siswa",
+"token": "883407"
+},
+{
+"nama": "Lasta Aprilia",
+"status": "Siswa",
+"token": "518224"
+},
+{
+"nama": "LAURA DITTRIANI",
+"status": "Siswa",
+"token": "441532"
+},
+{
+"nama": "Liza Pranata",
+"status": "Siswa",
+"token": "576659"
+},
+{
+"nama": "M.Azka Putra Halim",
+"status": "Siswa",
+"token": "309594"
+},
+{
+"nama": "MEYZAN ILHAM SAPUTRA",
+"status": "Siswa",
+"token": "963699"
+},
+{
+"nama": "MUHAMAD REVAL",
+"status": "Siswa",
+"token": "930977"
+},
+{
+"nama": "MUHAMMAD FATHIR PUTRA SYAIFANI",
+"status": "Siswa",
+"token": "484707"
+},
+{
+"nama": "Muhammad Rafi Andeta",
+"status": "Siswa",
+"token": "994465"
+},
+{
+"nama": "MUHAMMAD YUSUF SAPUTRA",
+"status": "Siswa",
+"token": "011679"
+},
+{
+"nama": "OKTA MUHAMMAD ROPIQ",
+"status": "Siswa",
+"token": "729186"
+},
+{
+"nama": "OKTAVIA FADILAH",
+"status": "Siswa",
+"token": "690808"
+},
+{
+"nama": "PUTRI RAHMADANI",
+"status": "Siswa",
+"token": "567965"
+},
+{
+"nama": "REGINA AULIANALDI",
+"status": "Siswa",
+"token": "368494"
+},
+{
+"nama": "RESYAH ASTRI ALVERA",
+"status": "Siswa",
+"token": "360644"
+},
+{
+"nama": "Reysa Olivia",
+"status": "Siswa",
+"token": "251676"
+},
+{
+"nama": "RIFKY TRI SATRIA PUJAKUSUMA",
+"status": "Siswa",
+"token": "173318"
+},
+{
+"nama": "SULISTYA MARZAH",
+"status": "Siswa",
+"token": "454402"
+},
+{
+"nama": "SYAKILA PUTRI RIVINA",
+"status": "Siswa",
+"token": "926926"
+},
+{
+"nama": "TIARA RIZKI NOVITA SARI",
+"status": "Siswa",
+"token": "727160"
+},
+{
+"nama": "TINA HARYATI",
+"status": "Siswa",
+"token": "811890"
+},
+{
+"nama": "ZAKIYAH KHOIRUNNISA",
+"status": "Siswa",
+"token": "642157"
+},
+{
+"nama": "ZHIDAN AL JIBRAN PASHA",
+"status": "Siswa",
+"token": "213914"
+},
+{
+"nama": "ABDI MAULANA",
+"status": "Siswa",
+"token": "396214"
+},
+{
+"nama": "ADITIA HADI PRATAMA PUTRA",
+"status": "Siswa",
+"token": "338177"
+},
+{
+"nama": "AISYAH PITRI HARAHAP",
+"status": "Siswa",
+"token": "406078"
+},
+{
+"nama": "AL MUQSITH FIRLI ADHA",
+"status": "Siswa",
+"token": "303896"
+},
+{
+"nama": "ANUGRAH TEGUH PRAYOGA",
+"status": "Siswa",
+"token": "627236"
+},
+{
+"nama": "APRIANSYAH REPALDO SAPUTRA",
+"status": "Siswa",
+"token": "378442"
+},
+{
+"nama": "ARYA ANUGRAH KHADAFI",
+"status": "Siswa",
+"token": "601199"
+},
+{
+"nama": "ATHIFA PUTRI JAUHARI",
+"status": "Siswa",
+"token": "299068"
+},
+{
+"nama": "BILLY PRATAMA PUTRA",
+"status": "Siswa",
+"token": "004236"
+},
+{
+"nama": "BIMO ZOVANZO",
+"status": "Siswa",
+"token": "136559"
+},
+{
+"nama": "CITRA ANTI LESTARI",
+"status": "Siswa",
+"token": "238436"
+},
+{
+"nama": "DAFFA FAKHRI LATHIF",
+"status": "Siswa",
+"token": "862227"
+},
+{
+"nama": "DEA PUTRI MEILANI",
+"status": "Siswa",
+"token": "735608"
+},
+{
+"nama": "Desta Eflyta",
+"status": "Siswa",
+"token": "652700"
+},
+{
+"nama": "DHERBY AFRILI ANZA",
+"status": "Siswa",
+"token": "568092"
+},
+{
+"nama": "DINDA AMELIA",
+"status": "Siswa",
+"token": "830028"
+},
+{
+"nama": "FABYO EGA SYAHPUTRA",
+"status": "Siswa",
+"token": "913606"
+},
+{
+"nama": "Fauzan Maha Putra",
+"status": "Siswa",
+"token": "762466"
+},
+{
+"nama": "JEVON FULVIAN VERSYAH",
+"status": "Siswa",
+"token": "138479"
+},
+{
+"nama": "Lion Dupaling Gani",
+"status": "Siswa",
+"token": "559426"
+},
+{
+"nama": "MUHAMMAD AGENG ALLPALLI",
+"status": "Siswa",
+"token": "496568"
+},
+{
+"nama": "Muhammad Irsyad Ma'arif",
+"status": "Siswa",
+"token": "955820"
+},
+{
+"nama": "MUHAMMAD REZA ALFAZLI",
+"status": "Siswa",
+"token": "965980"
+},
+{
+"nama": "NICKOLAS SAPUTRA",
+"status": "Siswa",
+"token": "835328"
+},
+{
+"nama": "NOVAL FIRMANSYAH",
+"status": "Siswa",
+"token": "076831"
+},
+{
+"nama": "NUR AZIZAH",
+"status": "Siswa",
+"token": "726583"
+},
+{
+"nama": "Rafif Arrasyid",
+"status": "Siswa",
+"token": "843053"
+},
+{
+"nama": "Rangga Prawira",
+"status": "Siswa",
+"token": "475712"
+},
+{
+"nama": "Revaldi Fairuz",
+"status": "Siswa",
+"token": "400064"
+},
+{
+"nama": "REVI ALVINZO",
+"status": "Siswa",
+"token": "490138"
+},
+{
+"nama": "Shandy Surya Ramadhan",
+"status": "Siswa",
+"token": "362042"
+},
+{
+"nama": "TALITA NAILAH",
+"status": "Siswa",
+"token": "474884"
+},
+{
+"nama": "TITAN JULIO LINTANG",
+"status": "Siswa",
+"token": "793578"
+},
+{
+"nama": "WAHYU MARVELEO REHANSYA",
+"status": "Siswa",
+"token": "524717"
+},
+{
+"nama": "Zaskia Alisia Mujiono",
+"status": "Siswa",
+"token": "299901"
+},
+{
+"nama": "ZIAN ALFARIZI SALIM",
+"status": "Siswa",
+"token": "945134"
+},
+{
+"nama": "ABYU HAFIZ",
+"status": "Siswa",
+"token": "291193"
+},
+{
+"nama": "Ahmad Fikri Al Zuhdi",
+"status": "Siswa",
+"token": "400094"
+},
+{
+"nama": "AMELIA APRIYANI",
+"status": "Siswa",
+"token": "529023"
+},
+{
+"nama": "AQILAH ZAHRA ALMIROS",
+"status": "Siswa",
+"token": "148208"
+},
+{
+"nama": "Asyifa Keyza Putri",
+"status": "Siswa",
+"token": "669626"
+},
+{
+"nama": "ATHAILLAH ADNANTHA OCTARVA SIZAR",
+"status": "Siswa",
+"token": "459818"
+},
+{
+"nama": "Axcelle Dehan Sugianto",
+"status": "Siswa",
+"token": "293407"
+},
+{
+"nama": "CHANDRA HIDAYAT",
+"status": "Siswa",
+"token": "936378"
+},
+{
+"nama": "CINDYYA PUTRI",
+"status": "Siswa",
+"token": "893479"
+},
+{
+"nama": "DEWO ABRAR",
+"status": "Siswa",
+"token": "087281"
+},
+{
+"nama": "DIMAS ARIYA SANCA",
+"status": "Siswa",
+"token": "864597"
+},
+{
+"nama": "DIVO ALFERO",
+"status": "Siswa",
+"token": "885346"
+},
+{
+"nama": "Dzulfadli Adif Shona",
+"status": "Siswa",
+"token": "605708"
+},
+{
+"nama": "EVAN EMILIO KURNIADI",
+"status": "Siswa",
+"token": "839546"
+},
+{
+"nama": "GEO PRENEGER",
+"status": "Siswa",
+"token": "039152"
+},
+{
+"nama": "HANIFAH ADZHANI ZOTMAN",
+"status": "Siswa",
+"token": "956919"
+},
+{
+"nama": "IBRAHIM SEKHA",
+"status": "Siswa",
+"token": "798506"
+},
+{
+"nama": "KAYSAN NAWFAL MADANI",
+"status": "Siswa",
+"token": "814672"
+},
+{
+"nama": "KENZIE DZIKRA HARMONY",
+"status": "Siswa",
+"token": "090469"
+},
+{
+"nama": "Laurentius Theo Adi Treeguna",
+"status": "Siswa",
+"token": "726361"
+},
+{
+"nama": "M. Dzulfan Iskandar",
+"status": "Siswa",
+"token": "111931"
+},
+{
+"nama": "MUHAMMAD ABDILLAH IRFAN",
+"status": "Siswa",
+"token": "073362"
+},
+{
+"nama": "MUHAMMAD AFIF VEDIANSYAH",
+"status": "Siswa",
+"token": "981347"
+},
+{
+"nama": "MUHAMMAD AHSANUL GHAISAN",
+"status": "Siswa",
+"token": "318077"
+},
+{
+"nama": "MUHAMMAD AL-HAFIZI PRATAMA",
+"status": "Siswa",
+"token": "996334"
+},
+{
+"nama": "MUHAMMAD DAVID FATONAH",
+"status": "Siswa",
+"token": "866012"
+},
+{
+"nama": "MUHAMMAD DEFRAN",
+"status": "Siswa",
+"token": "483002"
+},
+{
+"nama": "MUHAMMAD DZAKI FATUR RAHMAN",
+"status": "Siswa",
+"token": "040452"
+},
+{
+"nama": "Muhammad Fachri Nurfadila",
+"status": "Siswa",
+"token": "233263"
+},
+{
+"nama": "MUHAMMAD HAZEL WIRYAN BARYUGI",
+"status": "Siswa",
+"token": "736647"
+},
+{
+"nama": "MUHAMMAD JABBAR NOVANTO SETIAWAN",
+"status": "Siswa",
+"token": "396698"
+},
+{
+"nama": "Muhammad Raykel Ardi Al-Riski",
+"status": "Siswa",
+"token": "281260"
+},
+{
+"nama": "MUHAMMAD SADAAT ABIYU RASYID ANAQI",
+"status": "Siswa",
+"token": "306636"
+},
+{
+"nama": "MUTHIA ZAHRA AL HAFIZ",
+"status": "Siswa",
+"token": "582917"
+},
+{
+"nama": "NAUFAL ABDILLAH",
+"status": "Siswa",
+"token": "646682"
+},
+{
+"nama": "Syahzani",
+"status": "Siswa",
+"token": "861124"
+},
+{
+"nama": "Adam Zaidan Elandha",
+"status": "Siswa",
+"token": "117056"
+},
+{
+"nama": "Ahmad Furqon Sarianto",
+"status": "Siswa",
+"token": "771939"
+},
+{
+"nama": "Amelia Oktaviana",
+"status": "Siswa",
+"token": "363393"
+},
+{
+"nama": "ARIEF ALIANSYAH",
+"status": "Siswa",
+"token": "102830"
+},
+{
+"nama": "AZKA VIMANTA PRATAMA",
+"status": "Siswa",
+"token": "851218"
+},
+{
+"nama": "BERRY DINATA",
+"status": "Siswa",
+"token": "504890"
+},
+{
+"nama": "Dafi Yusri Ramadhan",
+"status": "Siswa",
+"token": "528806"
+},
+{
+"nama": "DAVA ABIMA SYAHPUTRA",
+"status": "Siswa",
+"token": "205194"
+},
+{
+"nama": "ELSA YULIA",
+"status": "Siswa",
+"token": "230811"
+},
+{
+"nama": "FAKHRI KAISARDAFFA",
+"status": "Siswa",
+"token": "752193"
+},
+{
+"nama": "FATIR SABRIMAN AKBAR",
+"status": "Siswa",
+"token": "054506"
+},
+{
+"nama": "FILLAH FAHRI MAHFUDHA",
+"status": "Siswa",
+"token": "094907"
+},
+{
+"nama": "FISKAL DAVISKO",
+"status": "Siswa",
+"token": "851553"
+},
+{
+"nama": "GUSTIAR RAKHMAD",
+"status": "Siswa",
+"token": "855052"
+},
+{
+"nama": "HAFIZT AL-FITRAH",
+"status": "Siswa",
+"token": "569726"
+},
+{
+"nama": "Hanszoe Muhammad Sabron",
+"status": "Siswa",
+"token": "367892"
+},
+{
+"nama": "HAZIKI NUGRAHADI",
+"status": "Siswa",
+"token": "892442"
+},
+{
+"nama": "IXELIENI ALDEASHAFIRA",
+"status": "Siswa",
+"token": "927177"
+},
+{
+"nama": "KHANZA PUTRI GIZELA",
+"status": "Siswa",
+"token": "648949"
+},
+{
+"nama": "M.BREYEN YUDISTIRA",
+"status": "Siswa",
+"token": "500671"
+},
+{
+"nama": "MARSEL AL-KARIM",
+"status": "Siswa",
+"token": "442911"
+},
+{
+"nama": "MARWAH TRI NUVITASARI",
+"status": "Siswa",
+"token": "326164"
+},
+{
+"nama": "MUFLIH ABDUL SAMAD",
+"status": "Siswa",
+"token": "816352"
+},
+{
+"nama": "MUHAMAD DZAQI FAIRUZ SAPUTRA",
+"status": "Siswa",
+"token": "525021"
+},
+{
+"nama": "MUHAMMAD ADAM TRISTAN",
+"status": "Siswa",
+"token": "120589"
+},
+{
+"nama": "Muhammad Rayya Rambu Base",
+"status": "Siswa",
+"token": "311666"
+},
+{
+"nama": "MUHAMMAD RIZKY RAMADHAN SYAH",
+"status": "Siswa",
+"token": "061911"
+},
+{
+"nama": "MUHAMMAD WALI AKBAR",
+"status": "Siswa",
+"token": "946570"
+},
+{
+"nama": "Pebrian Lukas Agustian",
+"status": "Siswa",
+"token": "466388"
+},
+{
+"nama": "RAFILIO AZZUHRY",
+"status": "Siswa",
+"token": "196166"
+},
+{
+"nama": "RAQILLAH ADINATA",
+"status": "Siswa",
+"token": "926310"
+},
+{
+"nama": "SAMYL MAULA AL HAFIZI",
+"status": "Siswa",
+"token": "788892"
+},
+{
+"nama": "Satria Alwan Zalifunnas",
+"status": "Siswa",
+"token": "622967"
+},
+{
+"nama": "SEPTIANI",
+"status": "Siswa",
+"token": "731809"
+},
+{
+"nama": "SYAFA AMIRA FEBRILIANTI",
+"status": "Siswa",
+"token": "598898"
+},
+{
+"nama": "SYAZA ALZENA RAHMADHANI PANE",
+"status": "Siswa",
+"token": "713714"
+},
+{
+"nama": "ABBY BURAHMAN EL-SHYRAZZY",
+"status": "Siswa",
+"token": "422763"
+},
+{
+"nama": "ACHMAD FADHIL HISYAM",
+"status": "Siswa",
+"token": "517789"
+},
+{
+"nama": "AL-FIKRI DWI APRIANSYAH",
+"status": "Siswa",
+"token": "812846"
+},
+{
+"nama": "AVNIZAR NUR IMAN",
+"status": "Siswa",
+"token": "836845"
+},
+{
+"nama": "DIYANAH NOPITA ANGERAINI",
+"status": "Siswa",
+"token": "022107"
+},
+{
+"nama": "Fadhilah Aziqhah Maheswara",
+"status": "Siswa",
+"token": "741131"
+},
+{
+"nama": "FARAZ ARFAN ZAHI",
+"status": "Siswa",
+"token": "340537"
+},
+{
+"nama": "Felix William",
+"status": "Siswa",
+"token": "556760"
+},
+{
+"nama": "FERNANDO PUTRA FERDIAN",
+"status": "Siswa",
+"token": "899451"
+},
+{
+"nama": "HAFIZ SISWANTO",
+"status": "Siswa",
+"token": "780490"
+},
+{
+"nama": "HANIEF ADLI GUSTIAWAN",
+"status": "Siswa",
+"token": "070815"
+},
+{
+"nama": "Ichsan Bramsyah",
+"status": "Siswa",
+"token": "695440"
+},
+{
+"nama": "IMAN FATHAH ALMUFID",
+"status": "Siswa",
+"token": "531259"
+},
+{
+"nama": "JIRILIO SEBRIANSAH",
+"status": "Siswa",
+"token": "714608"
+},
+{
+"nama": "LINTANG CAHAYA RAMADHAN",
+"status": "Siswa",
+"token": "201372"
+},
+{
+"nama": "Marlan Fitrah Alfakih",
+"status": "Siswa",
+"token": "575612"
+},
+{
+"nama": "Muhammad Adam Fahrizal",
+"status": "Siswa",
+"token": "511735"
+},
+{
+"nama": "MUHAMMAD ALGEOVANS NAUFAL AKINLIE",
+"status": "Siswa",
+"token": "735580"
+},
+{
+"nama": "MUHAMMAD AYMAN AFWAJA",
+"status": "Siswa",
+"token": "106780"
+},
+{
+"nama": "MUHAMMAD DAFA AL FAREZY",
+"status": "Siswa",
+"token": "521386"
+},
+{
+"nama": "Muhammad Farel Firnanda",
+"status": "Siswa",
+"token": "109736"
+},
+{
+"nama": "MUHAMMAD HAFIDZ PRAYOGA",
+"status": "Siswa",
+"token": "910402"
+},
+{
+"nama": "MUHAMMAD RAFLI AMAR",
+"status": "Siswa",
+"token": "786389"
+},
+{
+"nama": "Muhammad Vizi Fernandes",
+"status": "Siswa",
+"token": "266491"
+},
+{
+"nama": "Mustafa Arrazi",
+"status": "Siswa",
+"token": "422600"
+},
+{
+"nama": "NURHAYANTI",
+"status": "Siswa",
+"token": "790272"
+},
+{
+"nama": "PANDU GIBRANSYAH FADIL",
+"status": "Siswa",
+"token": "681827"
+},
+{
+"nama": "PIRLI KAUSAR",
+"status": "Siswa",
+"token": "926061"
+},
+{
+"nama": "QODRI RAMADHAN",
+"status": "Siswa",
+"token": "029960"
+},
+{
+"nama": "RAFA DWI KURNIAWAN",
+"status": "Siswa",
+"token": "496328"
+},
+{
+"nama": "RAHMATULLAH APRIANTI",
+"status": "Siswa",
+"token": "814435"
+},
+{
+"nama": "Reynaldi Juliansyah Putra",
+"status": "Siswa",
+"token": "601215"
+},
+{
+"nama": "Rizki Dwi Syaputra",
+"status": "Siswa",
+"token": "430391"
+},
+{
+"nama": "TESAR AL BATSIT MUBAROK",
+"status": "Siswa",
+"token": "592763"
+},
+{
+"nama": "ZAKY RAMADHAN",
+"status": "Siswa",
+"token": "310162"
+},
+{
+"nama": "ZELIG AKRAM AL-FARUQ",
+"status": "Siswa",
+"token": "780131"
+},
+{
+"nama": "ABRAR FALAH BAROQAH DAMANIK",
+"status": "Siswa",
+"token": "632174"
+},
+{
+"nama": "AFIS ZAIRA",
+"status": "Siswa",
+"token": "299864"
+},
+{
+"nama": "AISYAH RAHMANI",
+"status": "Siswa",
+"token": "351867"
+},
+{
+"nama": "Alfin Surya Pratama",
+"status": "Siswa",
+"token": "247516"
+},
+{
+"nama": "Anjas Putra Pratama",
+"status": "Siswa",
+"token": "977971"
+},
+{
+"nama": "ANNISA ARTIKA SARI",
+"status": "Siswa",
+"token": "773128"
+},
+{
+"nama": "ATIKA MESYA PUTRI",
+"status": "Siswa",
+"token": "561335"
+},
+{
+"nama": "BALQIS BARIZAH AL-HAKIM",
+"status": "Siswa",
+"token": "446825"
+},
+{
+"nama": "CHELSY OLIVIA",
+"status": "Siswa",
+"token": "520299"
+},
+{
+"nama": "DANU MUHAMAD FITRAH",
+"status": "Siswa",
+"token": "132679"
+},
+{
+"nama": "DEFAZ DARMA FEBIANSYAH",
+"status": "Siswa",
+"token": "248781"
+},
+{
+"nama": "Farel Febrian Cahyadi",
+"status": "Siswa",
+"token": "341061"
+},
+{
+"nama": "GISTIYAN NAELA",
+"status": "Siswa",
+"token": "164015"
+},
+{
+"nama": "Gustyan Anugrah Rhamadan",
+"status": "Siswa",
+"token": "233808"
+},
+{
+"nama": "HAFIDZAH NAJLA ZULFA",
+"status": "Siswa",
+"token": "549498"
+},
+{
+"nama": "HAZEL ALHABSY",
+"status": "Siswa",
+"token": "010398"
+},
+{
+"nama": "KEYSHA RESTU PADMAPUTRI",
+"status": "Siswa",
+"token": "399799"
+},
+{
+"nama": "Keyzah Lita Ivoshine",
+"status": "Siswa",
+"token": "405446"
+},
+{
+"nama": "MAHARANI",
+"status": "Siswa",
+"token": "712167"
+},
+{
+"nama": "MIFTHA NURJANNAH",
+"status": "Siswa",
+"token": "613873"
+},
+{
+"nama": "MUHAMMAD RAFHA",
+"status": "Siswa",
+"token": "163362"
+},
+{
+"nama": "MUHAMMAD WAHYU DIANTO",
+"status": "Siswa",
+"token": "337213"
+},
+{
+"nama": "MUHAMMAD ZAQI AQIL ADZIKRI",
+"status": "Siswa",
+"token": "854123"
+},
+{
+"nama": "Mutiara Putri Ariska",
+"status": "Siswa",
+"token": "913922"
+},
+{
+"nama": "Nabilla Fajri Ana",
+"status": "Siswa",
+"token": "589568"
+},
+{
+"nama": "NADIRA DWIE OKTAFIRA",
+"status": "Siswa",
+"token": "882347"
+},
+{
+"nama": "NAZLATUL HUSNA FAROAH",
+"status": "Siswa",
+"token": "510885"
+},
+{
+"nama": "Pandu Ardyanta",
+"status": "Siswa",
+"token": "414809"
+},
+{
+"nama": "Redo William Putra",
+"status": "Siswa",
+"token": "289726"
+},
+{
+"nama": "REVA AULIYA",
+"status": "Siswa",
+"token": "171262"
+},
+{
+"nama": "SINTA TRI JULIA",
+"status": "Siswa",
+"token": "578262"
+},
+{
+"nama": "SYAIB AUDHI",
+"status": "Siswa",
+"token": "899006"
+},
+{
+"nama": "VIRLY NAYLA RAHMADANTI",
+"status": "Siswa",
+"token": "051955"
+},
+{
+"nama": "Viska Widi Syahputri",
+"status": "Siswa",
+"token": "116935"
+},
+{
+"nama": "Vito Andolini Adrianz Corleone",
+"status": "Siswa",
+"token": "898452"
+},
+{
+"nama": "ZAIRA AISA SAFARA",
+"status": "Siswa",
+"token": "288774"
+},
+{
+"nama": "ADELIA PUTRI",
+"status": "Siswa",
+"token": "078740"
+},
+{
+"nama": "Ahmad Rafeliansyah",
+"status": "Siswa",
+"token": "780473"
+},
+{
+"nama": "Airin Shintia Putri",
+"status": "Siswa",
+"token": "984913"
+},
+{
+"nama": "ANAN KRISNA",
+"status": "Siswa",
+"token": "954290"
+},
+{
+"nama": "Andini Yulia Tansa",
+"status": "Siswa",
+"token": "914402"
+},
+{
+"nama": "APRILYA AYU DWI PUTRI",
+"status": "Siswa",
+"token": "244823"
+},
+{
+"nama": "ATIQAH PUTRI WULANDARI",
+"status": "Siswa",
+"token": "814707"
+},
+{
+"nama": "CARLEN",
+"status": "Siswa",
+"token": "550420"
+},
+{
+"nama": "DWI SYARAH AFHIJA",
+"status": "Siswa",
+"token": "297370"
+},
+{
+"nama": "DYAH AYU ANJASMORO",
+"status": "Siswa",
+"token": "363567"
+},
+{
+"nama": "Fadil Anugrah Prautama",
+"status": "Siswa",
+"token": "631945"
+},
+{
+"nama": "FAHMI PUTRA ALGANI",
+"status": "Siswa",
+"token": "769561"
+},
+{
+"nama": "Fatan Hazummalik",
+"status": "Siswa",
+"token": "266787"
+},
+{
+"nama": "Fathir Ghaniyyu Jikumiwa",
+"status": "Siswa",
+"token": "080911"
+},
+{
+"nama": "FEBY NACWA AZZAHRA UTAMI",
+"status": "Siswa",
+"token": "232438"
+},
+{
+"nama": "FERDI NUROHIM",
+"status": "Siswa",
+"token": "705958"
+},
+{
+"nama": "INTAN MUTMAINAH",
+"status": "Siswa",
+"token": "939224"
+},
+{
+"nama": "KHALIFAH SAFITRIANI",
+"status": "Siswa",
+"token": "470047"
+},
+{
+"nama": "Kheirine Chiesa Deocta",
+"status": "Siswa",
+"token": "496248"
+},
+{
+"nama": "Lorista Fitri",
+"status": "Siswa",
+"token": "963446"
+},
+{
+"nama": "MARCELLO",
+"status": "Siswa",
+"token": "016704"
+},
+{
+"nama": "Muhammad Aziz Nasution",
+"status": "Siswa",
+"token": "103707"
+},
+{
+"nama": "MUHAMMAD FARREL MARMORA",
+"status": "Siswa",
+"token": "597601"
+},
+{
+"nama": "MUHAMMAD FAUZAN AL HAFIDZ",
+"status": "Siswa",
+"token": "477848"
+},
+{
+"nama": "MUHAMMAD PACHRIE ALHAFIDZ",
+"status": "Siswa",
+"token": "774656"
+},
+{
+"nama": "Muhammad Rachel Juniansyah",
+"status": "Siswa",
+"token": "226311"
+},
+{
+"nama": "MUHAMMAD RAVA NURHENDRIANSYAH",
+"status": "Siswa",
+"token": "787263"
+},
+{
+"nama": "MUHAMMAD REYHAN AJI SAPUTRA",
+"status": "Siswa",
+"token": "861022"
+},
+{
+"nama": "NAYLA MEILANSYAH",
+"status": "Siswa",
+"token": "898234"
+},
+{
+"nama": "QUEENSHA CANG",
+"status": "Siswa",
+"token": "651822"
+},
+{
+"nama": "RAFINA AZIZIAH PAMBUDI",
+"status": "Siswa",
+"token": "985926"
+},
+{
+"nama": "RISKY AULIAN AKBAR",
+"status": "Siswa",
+"token": "703570"
+},
+{
+"nama": "SYADIYAH YULIARAHMANTO",
+"status": "Siswa",
+"token": "278237"
+},
+{
+"nama": "Yola Febrianti",
+"status": "Siswa",
+"token": "581050"
+},
+{
+"nama": "Yopi Maharani",
+"status": "Siswa",
+"token": "098590"
+},
+{
+"nama": "ZHIFANA LIANI LETIZA",
+"status": "Siswa",
+"token": "524297"
+},
+{
+"nama": "AFIFAH SYAFIRA",
+"status": "Siswa",
+"token": "033250"
+},
+{
+"nama": "ALISYA VADILA DWI SANTIKA",
+"status": "Siswa",
+"token": "795856"
+},
+{
+"nama": "Alsiyfariski Rahmadania",
+"status": "Siswa",
+"token": "969013"
+},
+{
+"nama": "ANDREAS ARMINTO PUTRA",
+"status": "Siswa",
+"token": "096429"
+},
+{
+"nama": "ANGGRAINI",
+"status": "Siswa",
+"token": "277911"
+},
+{
+"nama": "ANGGUN AVRILIA",
+"status": "Siswa",
+"token": "976718"
+},
+{
+"nama": "AQILAH HIJRIANI",
+"status": "Siswa",
+"token": "244135"
+},
+{
+"nama": "ASSYIFA SAFITRI",
+"status": "Siswa",
+"token": "474990"
+},
+{
+"nama": "Bayu Nata Djatra",
+"status": "Siswa",
+"token": "494522"
+},
+{
+"nama": "BERDO MAUREL WIJAYA",
+"status": "Siswa",
+"token": "968159"
+},
+{
+"nama": "CHIKA ANANTASYA ZULIAN TARI",
+"status": "Siswa",
+"token": "208559"
+},
+{
+"nama": "Cholida Ayuningtias",
+"status": "Siswa",
+"token": "044844"
+},
+{
+"nama": "DEKSA RULLY APRIANSYAH",
+"status": "Siswa",
+"token": "641650"
+},
+{
+"nama": "Dfiona Intan Safitri",
+"status": "Siswa",
+"token": "169562"
+},
+{
+"nama": "DINI ARTHA JUANITA",
+"status": "Siswa",
+"token": "141734"
+},
+{
+"nama": "DWINDY OKTICHIEN ISTIAWAN",
+"status": "Siswa",
+"token": "580839"
+},
+{
+"nama": "Fatyah Azka Fuadah",
+"status": "Siswa",
+"token": "989193"
+},
+{
+"nama": "HAFIZAH KHAIRANI",
+"status": "Siswa",
+"token": "688914"
+},
+{
+"nama": "Henki Okta Pratama",
+"status": "Siswa",
+"token": "731454"
+},
+{
+"nama": "KAYLA NAFIZA HAFIZH",
+"status": "Siswa",
+"token": "995661"
+},
+{
+"nama": "MUHAMMAD NAUFAL BARIQ AL FAIZ",
+"status": "Siswa",
+"token": "363686"
+},
+{
+"nama": "Muhammad Rizky Radhityo",
+"status": "Siswa",
+"token": "125513"
+},
+{
+"nama": "MUHAMMAD ZILLAL ALFURQONI",
+"status": "Siswa",
+"token": "739723"
+},
+{
+"nama": "NAJWA KHOIRUNISA",
+"status": "Siswa",
+"token": "000000"
+},
+{
+"nama": "NAUVAL AZKA FIRDAUS",
+"status": "Siswa",
+"token": "196760"
+},
+{
+"nama": "NURFADILA",
+"status": "Siswa",
+"token": "740649"
+},
+{
+"nama": "Putri Ayu Bunga Ardinda",
+"status": "Siswa",
+"token": "840368"
+},
+{
+"nama": "QUEENZHI ANDINI PUTRI",
+"status": "Siswa",
+"token": "582714"
+},
+{
+"nama": "RADISYA SHIHAB",
+"status": "Siswa",
+"token": "699770"
+},
+{
+"nama": "RADITYA RIZKI",
+"status": "Siswa",
+"token": "531279"
+},
+{
+"nama": "Reva Putri Hardiyanti",
+"status": "Siswa",
+"token": "552022"
+},
+{
+"nama": "Shesya Nassilla Azahra",
+"status": "Siswa",
+"token": "299012"
+},
+{
+"nama": "Talitha Alliya Khairani",
+"status": "Siswa",
+"token": "102247"
+},
+{
+"nama": "Vita Dellana",
+"status": "Siswa",
+"token": "766091"
+},
+{
+"nama": "Yeza Bima Anugerah",
+"status": "Siswa",
+"token": "614031"
+},
+{
+"nama": "ADINDA MULYA LESTARI",
+"status": "Siswa",
+"token": "005857"
+},
+{
+"nama": "ADJIE RAFFAEL ADHA",
+"status": "Siswa",
+"token": "848324"
+},
+{
+"nama": "ALDA MAYA SARI",
+"status": "Siswa",
+"token": "129063"
+},
+{
+"nama": "ANDHISA DAMBA WINDRIA",
+"status": "Siswa",
+"token": "844364"
+},
+{
+"nama": "ANDINI MEISA PITRI",
+"status": "Siswa",
+"token": "919325"
+},
+{
+"nama": "Aura Balqis Saputri",
+"status": "Siswa",
+"token": "591305"
+},
+{
+"nama": "Aziz Alfha Ridho",
+"status": "Siswa",
+"token": "947984"
+},
+{
+"nama": "Cantika Aurel Marlina Gusmala",
+"status": "Siswa",
+"token": "939210"
+},
+{
+"nama": "CINTA LAURA",
+"status": "Siswa",
+"token": "038496"
+},
+{
+"nama": "DEFY NOVITASARI",
+"status": "Siswa",
+"token": "247531"
+},
+{
+"nama": "DESTI SINTIA BELLA",
+"status": "Siswa",
+"token": "610411"
+},
+{
+"nama": "DHEA OKTAVIANI",
+"status": "Siswa",
+"token": "122582"
+},
+{
+"nama": "Dwi Yuanita Putri Hapsari",
+"status": "Siswa",
+"token": "755320"
+},
+{
+"nama": "EBI PERMANA",
+"status": "Siswa",
+"token": "514374"
+},
+{
+"nama": "HABIB JAHFAL NUGROHO",
+"status": "Siswa",
+"token": "739778"
+},
+{
+"nama": "KEVIN ARSYAD HARPIYAN",
+"status": "Siswa",
+"token": "415816"
+},
+{
+"nama": "KEYSHA ANGGRAINI",
+"status": "Siswa",
+"token": "708854"
+},
+{
+"nama": "KEZYA VANESA PUTRI",
+"status": "Siswa",
+"token": "272105"
+},
+{
+"nama": "M. Zamzami Rizky",
+"status": "Siswa",
+"token": "576070"
+},
+{
+"nama": "Muhammad Fajri Haryanto",
+"status": "Siswa",
+"token": "789310"
+},
+{
+"nama": "Muhammad Surya Akbar",
+"status": "Siswa",
+"token": "363824"
+},
+{
+"nama": "NABILA FAHRIYAH PUTRI",
+"status": "Siswa",
+"token": "689049"
+},
+{
+"nama": "NAFALIA SAFITRI",
+"status": "Siswa",
+"token": "617658"
+},
+{
+"nama": "NEVA IRPINIA",
+"status": "Siswa",
+"token": "730650"
+},
+{
+"nama": "NOVIA FELITA DELVINA",
+"status": "Siswa",
+"token": "570959"
+},
+{
+"nama": "OCHA Pratiwi",
+"status": "Siswa",
+"token": "116377"
+},
+{
+"nama": "Pu'at Jayadi",
+"status": "Siswa",
+"token": "014386"
+},
+{
+"nama": "RIRIN AFRILIA",
+"status": "Siswa",
+"token": "881781"
+},
+{
+"nama": "RISKA AYU SYAHFITRI",
+"status": "Siswa",
+"token": "255300"
+},
+{
+"nama": "S. Andika Pratama",
+"status": "Siswa",
+"token": "175678"
+},
+{
+"nama": "SALSABILA AFRIANI",
+"status": "Siswa",
+"token": "975965"
+},
+{
+"nama": "SAPUTRI RAHMA WATI",
+"status": "Siswa",
+"token": "476857"
+},
+{
+"nama": "SHERLY SRI HARDIANTI",
+"status": "Siswa",
+"token": "037813"
+},
+{
+"nama": "VIONA JUMIATY ADHA",
+"status": "Siswa",
+"token": "689016"
+},
+{
+"nama": "Wina Apriliya Nurhasanah",
+"status": "Siswa",
+"token": "370104"
+},
+{
+"nama": "ABDULLAH KHOIRUL AZAM",
+"status": "Siswa",
+"token": "159295"
+},
+{
+"nama": "ADHE PUTRA ALROBLY",
+"status": "Siswa",
+"token": "102350"
+},
+{
+"nama": "Alfino Ridho Ilahi",
+"status": "Siswa",
+"token": "423922"
+},
+{
+"nama": "Alisya Khayyarah",
+"status": "Siswa",
+"token": "883459"
+},
+{
+"nama": "AURREL ZHAFIRA PUTRI",
+"status": "Siswa",
+"token": "122761"
+},
+{
+"nama": "Azri Aqbal",
+"status": "Siswa",
+"token": "557989"
+},
+{
+"nama": "BIMA ALMALIKKY AREYZA",
+"status": "Siswa",
+"token": "054051"
+},
+{
+"nama": "CITRA PRAMITA ANGGRAINI",
+"status": "Siswa",
+"token": "910307"
+},
+{
+"nama": "DILANG ERLANDA",
+"status": "Siswa",
+"token": "073964"
+},
+{
+"nama": "dio nurhidayat",
+"status": "Siswa",
+"token": "644010"
+},
+{
+"nama": "FATIMATUZZAHRA PUTRI RAHARJANTI",
+"status": "Siswa",
+"token": "736596"
+},
+{
+"nama": "Febicha Tryzerly",
+"status": "Siswa",
+"token": "613154"
+},
+{
+"nama": "KENYUZA OKTALIANDRY",
+"status": "Siswa",
+"token": "407251"
+},
+{
+"nama": "KHANSA NAYLA HUSNAH",
+"status": "Siswa",
+"token": "378957"
+},
+{
+"nama": "MOHAMMAD FAHRI ALFAROZI",
+"status": "Siswa",
+"token": "191141"
+},
+{
+"nama": "MUHAMAD ALIF",
+"status": "Siswa",
+"token": "255704"
+},
+{
+"nama": "MUHAMAD ROBY ADITYA",
+"status": "Siswa",
+"token": "684801"
+},
+{
+"nama": "MUHAMMAD ANWAR RIFA'I",
+"status": "Siswa",
+"token": "134411"
+},
+{
+"nama": "Muhammad Fadhil Al-Fahruq",
+"status": "Siswa",
+"token": "236344"
+},
+{
+"nama": "Muhammad Fathirazky Rosdiansyah",
+"status": "Siswa",
+"token": "623307"
+},
+{
+"nama": "NABIL AL-FATTAH",
+"status": "Siswa",
+"token": "961486"
+},
+{
+"nama": "NUR FATUL HASANAH",
+"status": "Siswa",
+"token": "211788"
+},
+{
+"nama": "QUINSHA ANDINE SAKILA PUTRI",
+"status": "Siswa",
+"token": "973953"
+},
+{
+"nama": "Radit Aji Akbar",
+"status": "Siswa",
+"token": "868383"
+},
+{
+"nama": "RAFFI PUTRA DAWANSA",
+"status": "Siswa",
+"token": "983015"
+},
+{
+"nama": "Raka Trio Efendi",
+"status": "Siswa",
+"token": "408762"
+},
+{
+"nama": "Rama Aldiano",
+"status": "Siswa",
+"token": "447554"
+},
+{
+"nama": "Rani Purnamasari",
+"status": "Siswa",
+"token": "511292"
+},
+{
+"nama": "SALSABILLA PUTRI VINDRA",
+"status": "Siswa",
+"token": "358987"
+},
+{
+"nama": "SARIFAH",
+"status": "Siswa",
+"token": "061951"
+},
+{
+"nama": "SYAFA ZENITA MAHARANI",
+"status": "Siswa",
+"token": "382168"
+},
+{
+"nama": "TAUFIK IRMANSYAH",
+"status": "Siswa",
+"token": "097788"
+},
+{
+"nama": "TIARA JASMINE PUTRI ADRIAN",
+"status": "Siswa",
+"token": "400182"
+},
+{
+"nama": "VEGGY STONER",
+"status": "Siswa",
+"token": "319785"
+},
+{
+"nama": "Abi Akhbar Bangsauwan",
+"status": "Siswa",
+"token": "241293"
+},
+{
+"nama": "Ananda Aqilah Nur Afifah",
+"status": "Siswa",
+"token": "058335"
+},
+{
+"nama": "Aqil Kurnia Muftikhurroyyan",
+"status": "Siswa",
+"token": "733214"
+},
+{
+"nama": "Berlian Arzelleo",
+"status": "Siswa",
+"token": "777084"
+},
+{
+"nama": "BRILLIANT AHNAF SYAFARAZ",
+"status": "Siswa",
+"token": "406243"
+},
+{
+"nama": "CHARLES ERVAN SAPUTRA",
+"status": "Siswa",
+"token": "229501"
+},
+{
+"nama": "Daffa Rizq Alfauzi",
+"status": "Siswa",
+"token": "305733"
+},
+{
+"nama": "FADHIL HIZAM AL JUFRI",
+"status": "Siswa",
+"token": "824933"
+},
+{
+"nama": "GIOVANO ANDIEN RAMADHAN",
+"status": "Siswa",
+"token": "209885"
+},
+{
+"nama": "HANA AFIFA AL-JANNAH",
+"status": "Siswa",
+"token": "073366"
+},
+{
+"nama": "KAFEEL TQIFI OKTRADA",
+"status": "Siswa",
+"token": "725888"
+},
+{
+"nama": "Kaisah Salihah",
+"status": "Siswa",
+"token": "533951"
+},
+{
+"nama": "Kezia Novianty",
+"status": "Siswa",
+"token": "348913"
+},
+{
+"nama": "KHYRAN ZURIEL PRAMANO",
+"status": "Siswa",
+"token": "877883"
+},
+{
+"nama": "M. NAUFAL SYAUQY",
+"status": "Siswa",
+"token": "655882"
+},
+{
+"nama": "Mades Mezita Alfath",
+"status": "Siswa",
+"token": "585707"
+},
+{
+"nama": "Marcello Cahyadi",
+"status": "Siswa",
+"token": "968275"
+},
+{
+"nama": "Muhammad Alfin Pandimar Putra",
+"status": "Siswa",
+"token": "547088"
+},
+{
+"nama": "MUHAMMAD ALPINO",
+"status": "Siswa",
+"token": "289394"
+},
+{
+"nama": "MUHAMMAD FAHRI NURSOIEH",
+"status": "Siswa",
+"token": "064592"
+},
+{
+"nama": "Muhammad Faqih",
+"status": "Siswa",
+"token": "783657"
+},
+{
+"nama": "MUHAMMAD JOKA ARIYANTO",
+"status": "Siswa",
+"token": "471849"
+},
+{
+"nama": "MUHAMMAD RAFFA PUTRA WURIANTO",
+"status": "Siswa",
+"token": "002720"
+},
+{
+"nama": "NAILAH ZAHWAH",
+"status": "Siswa",
+"token": "534240"
+},
+{
+"nama": "Olif Loren Cantika",
+"status": "Siswa",
+"token": "869530"
+},
+{
+"nama": "Quinsha Aurelia Bilqis",
+"status": "Siswa",
+"token": "898825"
+},
+{
+"nama": "RACHQUEL FLORENZIA ANJELITHA",
+"status": "Siswa",
+"token": "815013"
+},
+{
+"nama": "Raditya Ardany Erlangga",
+"status": "Siswa",
+"token": "330396"
+},
+{
+"nama": "SHYAKILLAH DESWALIANCHI",
+"status": "Siswa",
+"token": "191084"
+},
+{
+"nama": "VALENCIA SAVA SABRINA",
+"status": "Siswa",
+"token": "705114"
+},
+{
+"nama": "VANI INDAH",
+"status": "Siswa",
+"token": "632413"
+},
+{
+"nama": "VAREL VEBRI YANSA",
+"status": "Siswa",
+"token": "548722"
+},
+{
+"nama": "VIONA AULIA",
+"status": "Siswa",
+"token": "397758"
+},
+{
+"nama": "Zakiyyah Okta Dwika",
+"status": "Siswa",
+"token": "658282"
+},
+{
+"nama": "ALIYAH TRI ADRIANI",
+"status": "Siswa",
+"token": "806459"
+},
+{
+"nama": "AMIRAH MUTHMAINNAH",
+"status": "Siswa",
+"token": "728872"
+},
+{
+"nama": "Aqso Rapasya Wijaya",
+"status": "Siswa",
+"token": "495243"
+},
+{
+"nama": "Aspen Emirsyah",
+"status": "Siswa",
+"token": "859746"
+},
+{
+"nama": "ASZA HAIRUNNISA TRIAGATA",
+"status": "Siswa",
+"token": "600493"
+},
+{
+"nama": "AYIDAH RAHMAH ISFAHANI",
+"status": "Siswa",
+"token": "008970"
+},
+{
+"nama": "AYU ANGRAINENGSI",
+"status": "Siswa",
+"token": "740521"
+},
+{
+"nama": "BERLIAN RAFANZIA PUTRA",
+"status": "Siswa",
+"token": "063556"
+},
+{
+"nama": "Canda Ramadani",
+"status": "Siswa",
+"token": "489681"
+},
+{
+"nama": "Celsi Dianalova",
+"status": "Siswa",
+"token": "686871"
+},
+{
+"nama": "DANIL CHEN",
+"status": "Siswa",
+"token": "684356"
+},
+{
+"nama": "DOFAERI FERNANDES",
+"status": "Siswa",
+"token": "765420"
+},
+{
+"nama": "DWI MAULANA",
+"status": "Siswa",
+"token": "128191"
+},
+{
+"nama": "ENDRY PRISKI PRATAMA",
+"status": "Siswa",
+"token": "536227"
+},
+{
+"nama": "FADHIL ALAUDIN RABBANI",
+"status": "Siswa",
+"token": "107581"
+},
+{
+"nama": "FAZELINO JEVON",
+"status": "Siswa",
+"token": "345212"
+},
+{
+"nama": "FERDIYAN SAPUTRA",
+"status": "Siswa",
+"token": "027344"
+},
+{
+"nama": "GEA CAHAYA RAMADANI",
+"status": "Siswa",
+"token": "191166"
+},
+{
+"nama": "Helda Nurmaina",
+"status": "Siswa",
+"token": "575571"
+},
+{
+"nama": "KARRELD FATIH AZKA CHANDRA",
+"status": "Siswa",
+"token": "124653"
+},
+{
+"nama": "KYEZIA AGUSTIN",
+"status": "Siswa",
+"token": "219492"
+},
+{
+"nama": "LUTHFIYA AZIZA DESWANTO",
+"status": "Siswa",
+"token": "584671"
+},
+{
+"nama": "Muhammad Aziz Maulana",
+"status": "Siswa",
+"token": "477891"
+},
+{
+"nama": "Muhammad Dava Syahputra",
+"status": "Siswa",
+"token": "403523"
+},
+{
+"nama": "MUHAMMAD FAHRY ABDILA",
+"status": "Siswa",
+"token": "626105"
+},
+{
+"nama": "MUHAMMAD KEVIN HIDAYAH",
+"status": "Siswa",
+"token": "246127"
+},
+{
+"nama": "MUHAMMAD RAFFI PUTRA WURIANTO",
+"status": "Siswa",
+"token": "717064"
+},
+{
+"nama": "Nopika Febi Herlina",
+"status": "Siswa",
+"token": "169253"
+},
+{
+"nama": "RADITYA KARTIKA",
+"status": "Siswa",
+"token": "470940"
+},
+{
+"nama": "RAESYA NADIRA",
+"status": "Siswa",
+"token": "233711"
+},
+{
+"nama": "RAFZA HANINDAZKA IRAWAN",
+"status": "Siswa",
+"token": "738139"
+},
+{
+"nama": "RAHMAT AGUNG",
+"status": "Siswa",
+"token": "814700"
+},
+{
+"nama": "Rama Dwi Anggara Muhammad Thaib",
+"status": "Siswa",
+"token": "763876"
+},
+{
+"nama": "SERGIO JUSTICIO",
+"status": "Siswa",
+"token": "575886"
+},
+{
+"nama": "ZAQQI HIDAYATULLAH",
+"status": "Siswa",
+"token": "519992"
+},
+{
+"nama": "ALIF ASHARI RAHMADHAN",
+"status": "Siswa",
+"token": "345683"
+},
+{
+"nama": "ANGGI RAHMADANI",
+"status": "Siswa",
+"token": "502417"
+},
+{
+"nama": "Aqkyra Fidelya Ulani",
+"status": "Siswa",
+"token": "414618"
+},
+{
+"nama": "Arka Manggala Saputra",
+"status": "Siswa",
+"token": "015409"
+},
+{
+"nama": "Arsyilla Azzahra",
+"status": "Siswa",
+"token": "432214"
+},
+{
+"nama": "Arunie Rosda Nindya",
+"status": "Siswa",
+"token": "364498"
+},
+{
+"nama": "ATHIRA NURFADHILLAH",
+"status": "Siswa",
+"token": "551534"
+},
+{
+"nama": "AULIA SUCI HUMAIRA",
+"status": "Siswa",
+"token": "930035"
+},
+{
+"nama": "CHINTIYA MEY FADHILAH",
+"status": "Siswa",
+"token": "414354"
+},
+{
+"nama": "DINDA PUTRI OKDIANTI",
+"status": "Siswa",
+"token": "973477"
+},
+{
+"nama": "Dirman Kusuma",
+"status": "Siswa",
+"token": "993225"
+},
+{
+"nama": "EGIFA OKTAFIA",
+"status": "Siswa",
+"token": "483769"
+},
+{
+"nama": "FARAH SAFINA DEWI RADITIAN",
+"status": "Siswa",
+"token": "813882"
+},
+{
+"nama": "Intan Sesariani putri",
+"status": "Siswa",
+"token": "484027"
+},
+{
+"nama": "IZZA KHAIRUNISA AZ - ZAHRA",
+"status": "Siswa",
+"token": "529359"
+},
+{
+"nama": "JESICA VANIA SARI",
+"status": "Siswa",
+"token": "918995"
+},
+{
+"nama": "Jihan Syafitri",
+"status": "Siswa",
+"token": "819540"
+},
+{
+"nama": "Khofifah Nur Annisa",
+"status": "Siswa",
+"token": "443329"
+},
+{
+"nama": "M. SATRIA KHARISMA KURNIAWAN",
+"status": "Siswa",
+"token": "279374"
+},
+{
+"nama": "MEYLANI AMANDA DEA LESTARI",
+"status": "Siswa",
+"token": "458418"
+},
+{
+"nama": "MIFTA NURJANAH",
+"status": "Siswa",
+"token": "169573"
+},
+{
+"nama": "MUHAMMAD FADHIL GHAFFAR",
+"status": "Siswa",
+"token": "969843"
+},
+{
+"nama": "MUHAMMAD NAUFAL RIDRAN PRATAMA",
+"status": "Siswa",
+"token": "408626"
+},
+{
+"nama": "Muhammad Rizki",
+"status": "Siswa",
+"token": "138089"
+},
+{
+"nama": "Nadya Khairunnissa Putri",
+"status": "Siswa",
+"token": "060223"
+},
+{
+"nama": "NATASYA AZKIA MUSRANI",
+"status": "Siswa",
+"token": "417571"
+},
+{
+"nama": "Natasya Dinda Prameswari",
+"status": "Siswa",
+"token": "731474"
+},
+{
+"nama": "NAZWA AYUDIAH FIANISA",
+"status": "Siswa",
+"token": "753914"
+},
+{
+"nama": "NISRINA ABIDAH JULIKA",
+"status": "Siswa",
+"token": "639270"
+},
+{
+"nama": "NYAYU FERLYNA PUSPA INDAH",
+"status": "Siswa",
+"token": "781431"
+},
+{
+"nama": "RAHMADHANI",
+"status": "Siswa",
+"token": "837791"
+},
+{
+"nama": "REGINA PUTRI AULIA",
+"status": "Siswa",
+"token": "750612"
+},
+{
+"nama": "RISKI AULIA",
+"status": "Siswa",
+"token": "787609"
+},
+{
+"nama": "VIDI HARPELINO PUTRA",
+"status": "Siswa",
+"token": "988529"
+},
+{
+"nama": "Yemima Olivia Butar Butar",
+"status": "Siswa",
+"token": "470687"
+},
+{
+"nama": "Ahmad Ramadhani",
+"status": "Siswa",
+"token": "894460"
+},
+{
+"nama": "Andini Julianti Dwi Putri",
+"status": "Siswa",
+"token": "793438"
+},
+{
+"nama": "Anindita Zanria",
+"status": "Siswa",
+"token": "919297"
+},
+{
+"nama": "AURA ALIFIA RAHMADHINI",
+"status": "Siswa",
+"token": "805558"
+},
+{
+"nama": "AZIKRA NURUL FIRLY",
+"status": "Siswa",
+"token": "317909"
+},
+{
+"nama": "BIMA SURYA UTAMA",
+"status": "Siswa",
+"token": "237182"
+},
+{
+"nama": "Cantika Permata Dewi",
+"status": "Siswa",
+"token": "763258"
+},
+{
+"nama": "Claries Indah C",
+"status": "Siswa",
+"token": "978112"
+},
+{
+"nama": "DHELA ZAHRA MAHARANI MZ",
+"status": "Siswa",
+"token": "680247"
+},
+{
+"nama": "Dwi Oktavia",
+"status": "Siswa",
+"token": "089105"
+},
+{
+"nama": "HAIKAL RHOMADHONI ABDILLAH",
+"status": "Siswa",
+"token": "325525"
+},
+{
+"nama": "HAPIPAH NORIAH APSAH",
+"status": "Siswa",
+"token": "927578"
+},
+{
+"nama": "JESSI MEILANI",
+"status": "Siswa",
+"token": "490721"
+},
+{
+"nama": "KEYSHA LAUDIA APRILIA",
+"status": "Siswa",
+"token": "486728"
+},
+{
+"nama": "LAURA APRIANA",
+"status": "Siswa",
+"token": "582105"
+},
+{
+"nama": "LUNA ANGGRAINI SN",
+"status": "Siswa",
+"token": "072058"
+},
+{
+"nama": "MOAMAR RINGKIS KAMIDAN",
+"status": "Siswa",
+"token": "358162"
+},
+{
+"nama": "MUHAMMAD BAGUS ARDIANSYAH",
+"status": "Siswa",
+"token": "830162"
+},
+{
+"nama": "MUHAMMAD DAFA ALPARIZI",
+"status": "Siswa",
+"token": "015054"
+},
+{
+"nama": "MUHAMMAD FAISAL NICOSYA AYEL",
+"status": "Siswa",
+"token": "185324"
+},
+{
+"nama": "NABILAH SYIFA FAUZIYAH",
+"status": "Siswa",
+"token": "999490"
+},
+{
+"nama": "NAJWA VERIZA ANDINY",
+"status": "Siswa",
+"token": "417285"
+},
+{
+"nama": "Namirah Hilwa Juana",
+"status": "Siswa",
+"token": "565667"
+},
+{
+"nama": "Okta Meilla Putri",
+"status": "Siswa",
+"token": "754927"
+},
+{
+"nama": "OLIVIA JULIANTI",
+"status": "Siswa",
+"token": "502752"
+},
+{
+"nama": "POUTERIA MUFTHI FATIHAH",
+"status": "Siswa",
+"token": "726937"
+},
+{
+"nama": "PUTRI KIRANA",
+"status": "Siswa",
+"token": "285870"
+},
+{
+"nama": "Raifah Laqisha",
+"status": "Siswa",
+"token": "836575"
+},
+{
+"nama": "Rani Tiara",
+"status": "Siswa",
+"token": "753977"
+},
+{
+"nama": "RIANA RAHMAWATI",
+"status": "Siswa",
+"token": "476063"
+},
+{
+"nama": "RIZKANA RAHMATIKA",
+"status": "Siswa",
+"token": "849814"
+},
+{
+"nama": "SILVIA RIANA DIVANY",
+"status": "Siswa",
+"token": "714713"
+},
+{
+"nama": "Siti Ummarah",
+"status": "Siswa",
+"token": "511483"
+},
+{
+"nama": "SYIFA PUTRI SALSABILA",
+"status": "Siswa",
+"token": "789407"
+},
+{
+"nama": "ZASKYAH AULIA MELANI",
+"status": "Siswa",
+"token": "444101"
+},
+{
+"nama": "AHMAT DEWA AKBAR",
+"status": "Siswa",
+"token": "049238"
+},
+{
+"nama": "AISYAH NUR ZHARIFAH",
+"status": "Siswa",
+"token": "288234"
+},
+{
+"nama": "Alif Hardi Rismawan",
+"status": "Siswa",
+"token": "238497"
+},
+{
+"nama": "ANDHIKA",
+"status": "Siswa",
+"token": "013138"
+},
+{
+"nama": "Angelina Oktaviany",
+"status": "Siswa",
+"token": "266611"
+},
+{
+"nama": "Ani Aulia",
+"status": "Siswa",
+"token": "574806"
+},
+{
+"nama": "ANISA NURJANNAH",
+"status": "Siswa",
+"token": "245921"
+},
+{
+"nama": "ANNISA IKHLAS ALBAYINAH",
+"status": "Siswa",
+"token": "184236"
+},
+{
+"nama": "ARYA FADHIL SYAHPUTRA",
+"status": "Siswa",
+"token": "000753"
+},
+{
+"nama": "Arya Prananda",
+"status": "Siswa",
+"token": "669373"
+},
+{
+"nama": "Atiqa Cintiya Sari",
+"status": "Siswa",
+"token": "044035"
+},
+{
+"nama": "Attaya Raysha Bilqis Insyra",
+"status": "Siswa",
+"token": "113979"
+},
+{
+"nama": "Azam Raffa Al Fahri",
+"status": "Siswa",
+"token": "914031"
+},
+{
+"nama": "Elis Purnama Sari Pitriani",
+"status": "Siswa",
+"token": "564496"
+},
+{
+"nama": "FAHRI AL FARIZI",
+"status": "Siswa",
+"token": "590408"
+},
+{
+"nama": "Febby Elcita Rova",
+"status": "Siswa",
+"token": "516915"
+},
+{
+"nama": "Hesa Jelsi Nuraini",
+"status": "Siswa",
+"token": "488907"
+},
+{
+"nama": "INTAN PUTRI ANDRIAN",
+"status": "Siswa",
+"token": "188554"
+},
+{
+"nama": "JUNITA TREE ANJANI",
+"status": "Siswa",
+"token": "008282"
+},
+{
+"nama": "KEYZHA DWI SYAHFITRI",
+"status": "Siswa",
+"token": "919460"
+},
+{
+"nama": "KIRANA DELYA PUTRI",
+"status": "Siswa",
+"token": "578188"
+},
+{
+"nama": "Levira Ayudia Putri",
+"status": "Siswa",
+"token": "742589"
+},
+{
+"nama": "LIVIA MELLANIE VARRADITA",
+"status": "Siswa",
+"token": "963617"
+},
+{
+"nama": "MEYTA SAVIRA",
+"status": "Siswa",
+"token": "090619"
+},
+{
+"nama": "NIA YUNIARTI",
+"status": "Siswa",
+"token": "649285"
+},
+{
+"nama": "PERDI ALINGGA",
+"status": "Siswa",
+"token": "369187"
+},
+{
+"nama": "QUANEISHA CHITTA UFAIRAH",
+"status": "Siswa",
+"token": "097830"
+},
+{
+"nama": "RAFIKA AYULIANDINI",
+"status": "Siswa",
+"token": "091524"
+},
+{
+"nama": "SAQILA NADIATUL ISLAMI",
+"status": "Siswa",
+"token": "613058"
+},
+{
+"nama": "Satya Eka Syalina Cesar",
+"status": "Siswa",
+"token": "285310"
+},
+{
+"nama": "Syela Putri Patrisyah",
+"status": "Siswa",
+"token": "080183"
+},
+{
+"nama": "Tesya Khumairoh",
+"status": "Siswa",
+"token": "314159"
+},
+{
+"nama": "ZAHRA ARISNA RAMADANI",
+"status": "Siswa",
+"token": "991496"
+},
+{
+"nama": "AHMAD KHADAFI",
+"status": "Siswa",
+"token": "378563"
+},
+{
+"nama": "Al Rafi Ghazali Akbar",
+"status": "Siswa",
+"token": "965967"
+},
+{
+"nama": "Angga",
+"status": "Siswa",
+"token": "937433"
+},
+{
+"nama": "Anggi",
+"status": "Siswa",
+"token": "201686"
+},
+{
+"nama": "ARHAMAN PUTRI RAFLESIA",
+"status": "Siswa",
+"token": "119814"
+},
+{
+"nama": "ARIS ALIANSYAH",
+"status": "Siswa",
+"token": "636044"
+},
+{
+"nama": "AURELIA INDRIYANTI",
+"status": "Siswa",
+"token": "589728"
+},
+{
+"nama": "AZAHRA NURSYAVANI ELVATIN",
+"status": "Siswa",
+"token": "971243"
+},
+{
+"nama": "Bahrul Jordan",
+"status": "Siswa",
+"token": "381555"
+},
+{
+"nama": "Barac Ocbama",
+"status": "Siswa",
+"token": "071823"
+},
+{
+"nama": "CHANTIKA DWI ANDREA",
+"status": "Siswa",
+"token": "422782"
+},
+{
+"nama": "Chelsa Dwi Syahfitri",
+"status": "Siswa",
+"token": "574876"
+},
+{
+"nama": "DENIS SEPTIAN RAMDANI",
+"status": "Siswa",
+"token": "455495"
+},
+{
+"nama": "Dialse Anjali",
+"status": "Siswa",
+"token": "502477"
+},
+{
+"nama": "Dinda Zivani Halim",
+"status": "Siswa",
+"token": "026796"
+},
+{
+"nama": "DZAKIRAH TALITA ZAHRA",
+"status": "Siswa",
+"token": "058625"
+},
+{
+"nama": "Fahri Saputra",
+"status": "Siswa",
+"token": "647911"
+},
+{
+"nama": "GEBBY GALIA PUTRI",
+"status": "Siswa",
+"token": "744917"
+},
+{
+"nama": "Gledis Ratu Chaniago",
+"status": "Siswa",
+"token": "987750"
+},
+{
+"nama": "Guwin Aliski",
+"status": "Siswa",
+"token": "925223"
+},
+{
+"nama": "intan kurnia ramadhani",
+"status": "Siswa",
+"token": "225243"
+},
+{
+"nama": "KHAIRUNISSA ALDAWIYAH ZAVIRA",
+"status": "Siswa",
+"token": "068815"
+},
+{
+"nama": "MARCHA AMELIA BELVA",
+"status": "Siswa",
+"token": "938466"
+},
+{
+"nama": "Melisa Anggraini",
+"status": "Siswa",
+"token": "089956"
+},
+{
+"nama": "Namira Tri Oktariani",
+"status": "Siswa",
+"token": "526013"
+},
+{
+"nama": "NIKEN AGUS TEPI",
+"status": "Siswa",
+"token": "934518"
+},
+{
+"nama": "RAFHA PASHA ALLAQSYA",
+"status": "Siswa",
+"token": "355601"
+},
+{
+"nama": "Rafky Stiawan",
+"status": "Siswa",
+"token": "067494"
+},
+{
+"nama": "Rama Danil",
+"status": "Siswa",
+"token": "756956"
+},
+{
+"nama": "REHAND ALDI RAMADANI",
+"status": "Siswa",
+"token": "959494"
+},
+{
+"nama": "RISKI ALPAROSI",
+"status": "Siswa",
+"token": "657474"
+},
+{
+"nama": "Safa Khairun Nisa",
+"status": "Siswa",
+"token": "177038"
+},
+{
+"nama": "SHOFIYYAH SABILILLAH",
+"status": "Siswa",
+"token": "406444"
+},
+{
+"nama": "YUANITA WILYANA PUTRI",
+"status": "Siswa",
+"token": "880589"
+},
+{
+"nama": "AHMAD FIKRY AL KHAIR",
+"status": "Siswa",
+"token": "759164"
+},
+{
+"nama": "ARDYANSYAH",
+"status": "Siswa",
+"token": "559955"
+},
+{
+"nama": "ARVIN PUTRA PRATAMA",
+"status": "Siswa",
+"token": "788989"
+},
+{
+"nama": "ARWAN PUTRA NUSANTARA",
+"status": "Siswa",
+"token": "001221"
+},
+{
+"nama": "Ayasy Radlliyan",
+"status": "Siswa",
+"token": "307374"
+},
+{
+"nama": "AZMAN RIF'AT SIREGAR",
+"status": "Siswa",
+"token": "341096"
+},
+{
+"nama": "BAYU HAVILAH DIAS",
+"status": "Siswa",
+"token": "342758"
+},
+{
+"nama": "Derly Rayyan Aqly",
+"status": "Siswa",
+"token": "427089"
+},
+{
+"nama": "Dhaffa Al-habsy",
+"status": "Siswa",
+"token": "630192"
+},
+{
+"nama": "Faturrahman Ilhami Dema",
+"status": "Siswa",
+"token": "899240"
+},
+{
+"nama": "FAUZAN ZUHRI",
+"status": "Siswa",
+"token": "422500"
+},
+{
+"nama": "FEYOLAND OBRIAN ALDANYS",
+"status": "Siswa",
+"token": "407649"
+},
+{
+"nama": "Lion Aslam Maulana",
+"status": "Siswa",
+"token": "399703"
+},
+{
+"nama": "LUTFIYA GHANIA NASHITA",
+"status": "Siswa",
+"token": "426083"
+},
+{
+"nama": "M.REYHAN ELSIRAJY",
+"status": "Siswa",
+"token": "016466"
+},
+{
+"nama": "Mehsa Oktarina",
+"status": "Siswa",
+"token": "805170"
+},
+{
+"nama": "MUHAMMAD AIDIL FITRIANSYAH",
+"status": "Siswa",
+"token": "062184"
+},
+{
+"nama": "Muhammad Fahri Fatihul Aqso",
+"status": "Siswa",
+"token": "837167"
+},
+{
+"nama": "MUHAMMAD IHSAN ALLDAFFA",
+"status": "Siswa",
+"token": "851945"
+},
+{
+"nama": "MUHAMMAD RAFA FADHILLAH",
+"status": "Siswa",
+"token": "778423"
+},
+{
+"nama": "MUHAMMAD RAMA SYLVA",
+"status": "Siswa",
+"token": "747110"
+},
+{
+"nama": "MUHAMMAD REYHAN JULVIANTO",
+"status": "Siswa",
+"token": "886570"
+},
+{
+"nama": "NADINE MISYA UTAMI",
+"status": "Siswa",
+"token": "283003"
+},
+{
+"nama": "NURROHMAT GILANG UTAMA",
+"status": "Siswa",
+"token": "826195"
+},
+{
+"nama": "PIRA ADITIA",
+"status": "Siswa",
+"token": "397222"
+},
+{
+"nama": "Rani Aprilia",
+"status": "Siswa",
+"token": "823029"
+},
+{
+"nama": "RIDHO ABDILLAH KALIM",
+"status": "Siswa",
+"token": "477880"
+},
+{
+"nama": "Salwa Azzahra",
+"status": "Siswa",
+"token": "768847"
+},
+{
+"nama": "Satria Azka Pratama Putra",
+"status": "Siswa",
+"token": "436366"
+},
+{
+"nama": "SHAINAJWA CHECILIA",
+"status": "Siswa",
+"token": "812564"
+},
+{
+"nama": "SIVA INKA PRATAMI",
+"status": "Siswa",
+"token": "908244"
+},
+{
+"nama": "VANIA ARTANTI",
+"status": "Siswa",
+"token": "643021"
+},
+{
+"nama": "Wahyu Iscoki",
+"status": "Siswa",
+"token": "646616"
+},
+{
+"nama": "Widiansyah Wida Saputra",
+"status": "Siswa",
+"token": "101756"
+},
+{
+"nama": "Yoga Adi Permana",
+"status": "Siswa",
+"token": "710620"
+},
+{
+"nama": "ABDUL RASYID KHAIRAN",
+"status": "Siswa",
+"token": "277731"
+},
+{
+"nama": "ADITYA SYIRA PRATAMA",
+"status": "Siswa",
+"token": "163225"
+},
+{
+"nama": "ALFIANSYAH RHAMADHAN",
+"status": "Siswa",
+"token": "569563"
+},
+{
+"nama": "DELVANO TRI ANGGARA",
+"status": "Siswa",
+"token": "418577"
+},
+{
+"nama": "Ekien Pauwrenzo",
+"status": "Siswa",
+"token": "072657"
+},
+{
+"nama": "FABYAN OKTORA PRATAMA",
+"status": "Siswa",
+"token": "072152"
+},
+{
+"nama": "GALIH SHEVIO NUGRAHA",
+"status": "Siswa",
+"token": "880613"
+},
+{
+"nama": "GYAN ALVARRO",
+"status": "Siswa",
+"token": "971789"
+},
+{
+"nama": "HABIB RIZQI",
+"status": "Siswa",
+"token": "175846"
+},
+{
+"nama": "IZLATAN ALIF MOVIC",
+"status": "Siswa",
+"token": "631280"
+},
+{
+"nama": "JAKA DWI PERMANA",
+"status": "Siswa",
+"token": "346283"
+},
+{
+"nama": "Kayla Anggraini",
+"status": "Siswa",
+"token": "318439"
+},
+{
+"nama": "Kelvin Abdullah Hermanisyah",
+"status": "Siswa",
+"token": "105600"
+},
+{
+"nama": "Leviana dwi Putri",
+"status": "Siswa",
+"token": "319673"
+},
+{
+"nama": "MUHAMAD IKHWAN",
+"status": "Siswa",
+"token": "257693"
+},
+{
+"nama": "Muhammad Al Faiz Utomo",
+"status": "Siswa",
+"token": "886242"
+},
+{
+"nama": "Muhammad Daffa",
+"status": "Siswa",
+"token": "023460"
+},
+{
+"nama": "MUHAMMAD DUTA PRATAMA",
+"status": "Siswa",
+"token": "564773"
+},
+{
+"nama": "MUHAMMAD FAUZAN",
+"status": "Siswa",
+"token": "235105"
+},
+{
+"nama": "MUHAMMAD HAYKAL NAKSA BANDI",
+"status": "Siswa",
+"token": "209837"
+},
+{
+"nama": "NADJWA PERMATA JULIANSYAH",
+"status": "Siswa",
+"token": "679736"
+},
+{
+"nama": "Nadya Saputri",
+"status": "Siswa",
+"token": "416503"
+},
+{
+"nama": "OVAN SAPUTRA",
+"status": "Siswa",
+"token": "380423"
+},
+{
+"nama": "RAFIF AFLAH BRELLY",
+"status": "Siswa",
+"token": "784149"
+},
+{
+"nama": "RAHMA YUNITA",
+"status": "Siswa",
+"token": "673771"
+},
+{
+"nama": "Raja Khalifah",
+"status": "Siswa",
+"token": "921469"
+},
+{
+"nama": "RAPIANDA RIZKI ZAMDUTA",
+"status": "Siswa",
+"token": "648751"
+},
+{
+"nama": "Rere Rianti",
+"status": "Siswa",
+"token": "379563"
+},
+{
+"nama": "RIFKI ALFIANDI",
+"status": "Siswa",
+"token": "022160"
+},
+{
+"nama": "SOFIA NUR RAHMA AGUSTIN",
+"status": "Siswa",
+"token": "800642"
+},
+{
+"nama": "Syabil izza fefiansyah",
+"status": "Siswa",
+"token": "570357"
+},
+{
+"nama": "Tri Adhitya",
+"status": "Siswa",
+"token": "170489"
+},
+{
+"nama": "TRIANA KARTICA SYAFITRI",
+"status": "Siswa",
+"token": "524360"
+},
+{
+"nama": "VINA RIHLATUN NADYA",
+"status": "Siswa",
+"token": "639880"
+},
+{
+"nama": "ADELIA ZHEVRIANI",
+"status": "Siswa",
+"token": "345076"
+},
+{
+"nama": "AHMAD FARUQ HIDAYAT",
+"status": "Siswa",
+"token": "168551"
+},
+{
+"nama": "ALPIAN DWI CAHYA",
+"status": "Siswa",
+"token": "257235"
+},
+{
+"nama": "ALROFU ATHAILLAH AZZAKI",
+"status": "Siswa",
+"token": "774513"
+},
+{
+"nama": "ANINDYA SHALSA ANAMICA",
+"status": "Siswa",
+"token": "549989"
+},
+{
+"nama": "ANISA RAHMA FADHILA",
+"status": "Siswa",
+"token": "353023"
+},
+{
+"nama": "AURA PUTRI CECILIA",
+"status": "Siswa",
+"token": "653256"
+},
+{
+"nama": "Aurel Cahaya Dita",
+"status": "Siswa",
+"token": "871127"
+},
+{
+"nama": "AZAMAL ZIKRI",
+"status": "Siswa",
+"token": "434091"
+},
+{
+"nama": "Damar JunaiDi",
+"status": "Siswa",
+"token": "183978"
+},
+{
+"nama": "DARREL RAHMANTIO",
+"status": "Siswa",
+"token": "001183"
+},
+{
+"nama": "Dava Zafarel",
+"status": "Siswa",
+"token": "956398"
+},
+{
+"nama": "Dhanang Sethiaji",
+"status": "Siswa",
+"token": "988213"
+},
+{
+"nama": "Fabian Raffa Alfaridzy",
+"status": "Siswa",
+"token": "148522"
+},
+{
+"nama": "Hudzaifah Umar Ali",
+"status": "Siswa",
+"token": "660373"
+},
+{
+"nama": "JILIA SASKIA",
+"status": "Siswa",
+"token": "403739"
+},
+{
+"nama": "KEVIN AHMAT FAUZI",
+"status": "Siswa",
+"token": "903518"
+},
+{
+"nama": "M. RAQA AGASTA",
+"status": "Siswa",
+"token": "210305"
+},
+{
+"nama": "Muhammad Ikhsan Al Hafizh",
+"status": "Siswa",
+"token": "704393"
+},
+{
+"nama": "MUHAMMAD IKRAM PUTRA",
+"status": "Siswa",
+"token": "662827"
+},
+{
+"nama": "MUHAMMAD ZAHID ASH-SHIDDIQ",
+"status": "Siswa",
+"token": "777359"
+},
+{
+"nama": "Nazwa Aulia Hasanah",
+"status": "Siswa",
+"token": "589626"
+},
+{
+"nama": "NIKSON RADZI KURNIA PAKPAHAN",
+"status": "Siswa",
+"token": "877962"
+},
+{
+"nama": "Qaulia fitri",
+"status": "Siswa",
+"token": "642082"
+},
+{
+"nama": "RADEN MUHAMMAD ATHAR PANJI RABBANI",
+"status": "Siswa",
+"token": "481078"
+},
+{
+"nama": "Refi Mariska",
+"status": "Siswa",
+"token": "047096"
+},
+{
+"nama": "Reza Pertama Ayu",
+"status": "Siswa",
+"token": "807911"
+},
+{
+"nama": "Rifky Dwi Aflah",
+"status": "Siswa",
+"token": "996871"
+},
+{
+"nama": "RIZKI AHMAD JUNAIDI",
+"status": "Siswa",
+"token": "391452"
+},
+{
+"nama": "RYFHANO ATHALLAH AL-GHANYY",
+"status": "Siswa",
+"token": "938027"
+},
+{
+"nama": "TEGAR ANUGRAH",
+"status": "Siswa",
+"token": "848219"
+},
+{
+"nama": "TOMI HERIAWAN",
+"status": "Siswa",
+"token": "324314"
+},
+{
+"nama": "YOVEN SYAFUTRA",
+"status": "Siswa",
+"token": "023883"
+},
+{
+"nama": "ZERIKO AL GHIFARI RAMADHAN",
+"status": "Siswa",
+"token": "572290"
+},
+{
+"nama": "Amelia Lorenza",
+"status": "Siswa",
+"token": "422596"
+},
+{
+"nama": "ANES GIOPRATAMA",
+"status": "Siswa",
+"token": "300760"
+},
+{
+"nama": "ANNISA CHERRYN DWIYANTI",
+"status": "Siswa",
+"token": "059730"
+},
+{
+"nama": "BIMA ERLANGGA",
+"status": "Siswa",
+"token": "256462"
+},
+{
+"nama": "CHAZA AL FIQRI LANDOVARLO",
+"status": "Siswa",
+"token": "188173"
+},
+{
+"nama": "Chelsia Airirin Salsabila",
+"status": "Siswa",
+"token": "083218"
+},
+{
+"nama": "Davina Annisa Januarel",
+"status": "Siswa",
+"token": "013889"
+},
+{
+"nama": "FALYA YUSRI ADINDA",
+"status": "Siswa",
+"token": "118135"
+},
+{
+"nama": "GILANG AKBAR",
+"status": "Siswa",
+"token": "131874"
+},
+{
+"nama": "Herly Darmaputra",
+"status": "Siswa",
+"token": "087695"
+},
+{
+"nama": "JAFINO PRIYATNO",
+"status": "Siswa",
+"token": "008298"
+},
+{
+"nama": "JENY ANGGRAINI PUTRI",
+"status": "Siswa",
+"token": "633078"
+},
+{
+"nama": "Jessica Putri Yolanda Valensia",
+"status": "Siswa",
+"token": "455011"
+},
+{
+"nama": "Keycha Kilau Kencana",
+"status": "Siswa",
+"token": "574683"
+},
+{
+"nama": "KEYLLA RAMADANI",
+"status": "Siswa",
+"token": "944886"
+},
+{
+"nama": "Lalu Dafin Naufal Ramadhan",
+"status": "Siswa",
+"token": "911991"
+},
+{
+"nama": "LIORA FATTIYA",
+"status": "Siswa",
+"token": "830204"
+},
+{
+"nama": "MAHATANDHYKA ANUGRAH SAFITRAH",
+"status": "Siswa",
+"token": "332555"
+},
+{
+"nama": "Muhammad Davin Nafezza",
+"status": "Siswa",
+"token": "655464"
+},
+{
+"nama": "MUHAMMAD IHSAN SYAFIQ",
+"status": "Siswa",
+"token": "235296"
+},
+{
+"nama": "NABILA",
+"status": "Siswa",
+"token": "911007"
+},
+{
+"nama": "NABILLA SIFANA NOVTA",
+"status": "Siswa",
+"token": "740802"
+},
+{
+"nama": "NADYA NOPRYANTY PUTRY",
+"status": "Siswa",
+"token": "516688"
+},
+{
+"nama": "OKTARINA AYUNI LESTARI",
+"status": "Siswa",
+"token": "845321"
+},
+{
+"nama": "RAFFA RADITYA",
+"status": "Siswa",
+"token": "894603"
+},
+{
+"nama": "RAIZEL ZHAFIRA RAMADANI",
+"status": "Siswa",
+"token": "972055"
+},
+{
+"nama": "Resti Angraini",
+"status": "Siswa",
+"token": "470769"
+},
+{
+"nama": "REVINA DWI ANGRAINI",
+"status": "Siswa",
+"token": "203919"
+},
+{
+"nama": "Riani Yuliana",
+"status": "Siswa",
+"token": "035904"
+},
+{
+"nama": "Sheryna Fhadila Yantie",
+"status": "Siswa",
+"token": "688799"
+},
+{
+"nama": "SYAFIRA ALFA NURAINI",
+"status": "Siswa",
+"token": "701020"
+},
+{
+"nama": "Teguh Irfan",
+"status": "Siswa",
+"token": "633980"
+},
+{
+"nama": "VANIA PUTRI UTAMI",
+"status": "Siswa",
+"token": "043727"
+},
+{
+"nama": "Zandi Akbar Prasetya",
+"status": "Siswa",
+"token": "955331"
+},
+{
+"nama": "Abiyyu Fakhri Ramadhan",
+"status": "Siswa",
+"token": "430595"
+},
+{
+"nama": "AGIA RADIANSA",
+"status": "Siswa",
+"token": "048301"
+},
+{
+"nama": "Agrimas Syafril",
+"status": "Siswa",
+"token": "704574"
+},
+{
+"nama": "Alisha Maharani",
+"status": "Siswa",
+"token": "454365"
+},
+{
+"nama": "AMIRAH FATIN RAMADHANI",
+"status": "Siswa",
+"token": "071807"
+},
+{
+"nama": "ANGGI DIVA INARI",
+"status": "Siswa",
+"token": "887507"
+},
+{
+"nama": "AUREL DELITA PUTRI",
+"status": "Siswa",
+"token": "711682"
+},
+{
+"nama": "Azizah Meiferli Putri Handayani",
+"status": "Siswa",
+"token": "875267"
+},
+{
+"nama": "BAGUS TRI-OKSHU PUTRA",
+"status": "Siswa",
+"token": "716274"
+},
+{
+"nama": "Cici Ismadayanti",
+"status": "Siswa",
+"token": "791442"
+},
+{
+"nama": "Desti Novita Putri",
+"status": "Siswa",
+"token": "616783"
+},
+{
+"nama": "DILNI HAFIZA",
+"status": "Siswa",
+"token": "692309"
+},
+{
+"nama": "ERJIHAN TRI DARIIFAH",
+"status": "Siswa",
+"token": "575037"
+},
+{
+"nama": "HENDI FAUZAN",
+"status": "Siswa",
+"token": "885886"
+},
+{
+"nama": "Jihan Rivanie Polapa",
+"status": "Siswa",
+"token": "790068"
+},
+{
+"nama": "LIA NURHIDAYANTI",
+"status": "Siswa",
+"token": "641828"
+},
+{
+"nama": "LUSI WULAN DARI",
+"status": "Siswa",
+"token": "350665"
+},
+{
+"nama": "MARSYANIA AFRIZA ARDIANSYAH",
+"status": "Siswa",
+"token": "878538"
+},
+{
+"nama": "MUHAMMAD ALVANDI",
+"status": "Siswa",
+"token": "446254"
+},
+{
+"nama": "Muhammad Azril Feduantama",
+"status": "Siswa",
+"token": "076399"
+},
+{
+"nama": "Muhammad Fadlan AL-Fahruq",
+"status": "Siswa",
+"token": "825108"
+},
+{
+"nama": "Muhammad Rafif Hartawan",
+"status": "Siswa",
+"token": "481029"
+},
+{
+"nama": "Muhammad Rasya. NR",
+"status": "Siswa",
+"token": "044521"
+},
+{
+"nama": "NAILAH SAVAIRA RIZQI",
+"status": "Siswa",
+"token": "607248"
+},
+{
+"nama": "Natasya Citra Lestari",
+"status": "Siswa",
+"token": "278308"
+},
+{
+"nama": "Okta Arianti",
+"status": "Siswa",
+"token": "768175"
+},
+{
+"nama": "RACHELIA ALFADILLA RAHNA",
+"status": "Siswa",
+"token": "786779"
+},
+{
+"nama": "RANA JUNIWAFIRAH",
+"status": "Siswa",
+"token": "022914"
+},
+{
+"nama": "Raniah Humairoh",
+"status": "Siswa",
+"token": "038705"
+},
+{
+"nama": "Rezan Jio Syah Putra",
+"status": "Siswa",
+"token": "091142"
+},
+{
+"nama": "Riche Nabila Utami",
+"status": "Siswa",
+"token": "619550"
+},
+{
+"nama": "SERLY NABILA",
+"status": "Siswa",
+"token": "672809"
+},
+{
+"nama": "Sheila Alyah Putri",
+"status": "Siswa",
+"token": "973653"
+},
+{
+"nama": "ZILQUEENA BAHAIRA",
+"status": "Siswa",
+"token": "273385"
+},
+{
+"nama": "ZIVANNA AULIA",
+"status": "Siswa",
+"token": "567405"
+},
+{
+"nama": "ADEL MUHAMMAD ZACHARY",
+"status": "Siswa",
+"token": "009153"
+},
+{
+"nama": "Atiqoh Nurus Syarofah",
+"status": "Siswa",
+"token": "633998"
+},
+{
+"nama": "Ayu Andini",
+"status": "Siswa",
+"token": "324619"
+},
+{
+"nama": "Cynthia Fawziyah",
+"status": "Siswa",
+"token": "948998"
+},
+{
+"nama": "Efria Ika Pratiwi",
+"status": "Siswa",
+"token": "040166"
+},
+{
+"nama": "ERLAN APRIALANO PRATAMA",
+"status": "Siswa",
+"token": "877201"
+},
+{
+"nama": "FAIZAH ATHIFAH FACHROZI",
+"status": "Siswa",
+"token": "868428"
+},
+{
+"nama": "FAWNIYAH KHAIRUNISAH PUTRI",
+"status": "Siswa",
+"token": "688298"
+},
+{
+"nama": "FERDYAN SYAHPUTRA UTAMA",
+"status": "Siswa",
+"token": "860676"
+},
+{
+"nama": "Firman Aulia",
+"status": "Siswa",
+"token": "050897"
+},
+{
+"nama": "HAURA SYALILA",
+"status": "Siswa",
+"token": "276860"
+},
+{
+"nama": "Iqbal Hidayah",
+"status": "Siswa",
+"token": "831275"
+},
+{
+"nama": "Kharisa Utami",
+"status": "Siswa",
+"token": "589924"
+},
+{
+"nama": "KHEYSELA MUTHI RAMADANIA",
+"status": "Siswa",
+"token": "402555"
+},
+{
+"nama": "KINTAN PUTRI RAHAYU",
+"status": "Siswa",
+"token": "338342"
+},
+{
+"nama": "Levina Aulia Riyanto",
+"status": "Siswa",
+"token": "584973"
+},
+{
+"nama": "LOVELY PUTRI YENDRI",
+"status": "Siswa",
+"token": "116757"
+},
+{
+"nama": "MUHAMMAD FABIAN SUSANTO",
+"status": "Siswa",
+"token": "093912"
+},
+{
+"nama": "NADHIIRAH RAHMADANISA",
+"status": "Siswa",
+"token": "930945"
+},
+{
+"nama": "NAFTA SHETY ADINDA",
+"status": "Siswa",
+"token": "677084"
+},
+{
+"nama": "NAILA PUTRI SUSILA AZZAHRA",
+"status": "Siswa",
+"token": "362839"
+},
+{
+"nama": "NAOMI ANGGRAINI",
+"status": "Siswa",
+"token": "406633"
+},
+{
+"nama": "NASYA DEVIKA APRIANI",
+"status": "Siswa",
+"token": "986255"
+},
+{
+"nama": "NAYLA APRILIA SUPANDI",
+"status": "Siswa",
+"token": "298116"
+},
+{
+"nama": "NIRVA VELLIA SARI",
+"status": "Siswa",
+"token": "479191"
+},
+{
+"nama": "PUTRI NURAISYAH",
+"status": "Siswa",
+"token": "383576"
+},
+{
+"nama": "Rasya Abdul Alfaridzi",
+"status": "Siswa",
+"token": "215925"
+},
+{
+"nama": "Repen Oktoriano",
+"status": "Siswa",
+"token": "860137"
+},
+{
+"nama": "Sabrina Noprecia Ardiansyah",
+"status": "Siswa",
+"token": "965849"
+},
+{
+"nama": "Vebilla Nur Zikta",
+"status": "Siswa",
+"token": "515388"
+},
+{
+"nama": "Vera Agustina",
+"status": "Siswa",
+"token": "509407"
+},
+{
+"nama": "Veronica Novryanti Prasandi",
+"status": "Siswa",
+"token": "759080"
+},
+{
+"nama": "YARIL ABDUL RAZAK",
+"status": "Siswa",
+"token": "428393"
+},
+{
+"nama": "ZHAFIRAH ALYA PUTRI YUDA",
+"status": "Siswa",
+"token": "680748"
+},
+{
+"nama": "ALIFAH QUEENALOVA BORU GINTING",
+"status": "Siswa",
+"token": "991749"
+},
+{
+"nama": "AMELIA NOVITA SARI",
+"status": "Siswa",
+"token": "978128"
+},
+{
+"nama": "APRILDHA NADYA SITOHANG",
+"status": "Siswa",
+"token": "252038"
+},
+{
+"nama": "AUDYLA MARSYA",
+"status": "Siswa",
+"token": "582261"
+},
+{
+"nama": "BIANKA ANINDIA PUTRI",
+"status": "Siswa",
+"token": "355430"
+},
+{
+"nama": "Bunga Dwi Ambriani",
+"status": "Siswa",
+"token": "083846"
+},
+{
+"nama": "CARISSA ANINDYA PUTRI",
+"status": "Siswa",
+"token": "183215"
+},
+{
+"nama": "Depina Adelia Putri",
+"status": "Siswa",
+"token": "549824"
+},
+{
+"nama": "DYVA DESMA PRATIWI",
+"status": "Siswa",
+"token": "119775"
+},
+{
+"nama": "FATANH IMANU KAMIL",
+"status": "Siswa",
+"token": "555040"
+},
+{
+"nama": "FIQRI DELTA APRIANSYAH",
+"status": "Siswa",
+"token": "481341"
+},
+{
+"nama": "KANAYA SALSABILA",
+"status": "Siswa",
+"token": "537744"
+},
+{
+"nama": "KIRANA DWI PUTRI",
+"status": "Siswa",
+"token": "987887"
+},
+{
+"nama": "KIRANA PUTRI SALSABILLA",
+"status": "Siswa",
+"token": "056597"
+},
+{
+"nama": "LIFIA AFIIFAH",
+"status": "Siswa",
+"token": "530678"
+},
+{
+"nama": "MELI TRIAYU",
+"status": "Siswa",
+"token": "909686"
+},
+{
+"nama": "MIA MARDIANA",
+"status": "Siswa",
+"token": "108379"
+},
+{
+"nama": "Milda Farania",
+"status": "Siswa",
+"token": "092870"
+},
+{
+"nama": "MUHAMMAD AZIZ HABIBULLAH",
+"status": "Siswa",
+"token": "228052"
+},
+{
+"nama": "MUHAMMAD DZIKRI PRATAMA",
+"status": "Siswa",
+"token": "462605"
+},
+{
+"nama": "NADIA KUSUMA NINGRUM",
+"status": "Siswa",
+"token": "135168"
+},
+{
+"nama": "Natasya Purian",
+"status": "Siswa",
+"token": "077929"
+},
+{
+"nama": "NAYLA SAFITRI",
+"status": "Siswa",
+"token": "905997"
+},
+{
+"nama": "Noval Fajar Raya Adha",
+"status": "Siswa",
+"token": "066712"
+},
+{
+"nama": "RISYA DESTRIANTI",
+"status": "Siswa",
+"token": "153651"
+},
+{
+"nama": "Saseno Ello Pratama",
+"status": "Siswa",
+"token": "419412"
+},
+{
+"nama": "SATRIA EFENDI",
+"status": "Siswa",
+"token": "942990"
+},
+{
+"nama": "SHARA APRILYA PUTRI",
+"status": "Siswa",
+"token": "282346"
+},
+{
+"nama": "SYIFA AULUNA",
+"status": "Siswa",
+"token": "442292"
+},
+{
+"nama": "TIAFNI CAHYA BAEIT",
+"status": "Siswa",
+"token": "952308"
+},
+{
+"nama": "Tria Desvita Angraini",
+"status": "Siswa",
+"token": "668175"
+},
+{
+"nama": "Vronica Anjani",
+"status": "Siswa",
+"token": "799864"
+},
+{
+"nama": "ZAHRA NAYLA RAHMADANIA",
+"status": "Siswa",
+"token": "801486"
+},
+{
+"nama": "ZAHRA NOVITA SARI",
+"status": "Siswa",
+"token": "938406"
+},
+{
+"nama": "AHMADI NATAMA POHAN",
+"status": "Siswa",
+"token": "451231"
+},
+{
+"nama": "ALODIA SILVERA THESALONIKA",
+"status": "Siswa",
+"token": "779036"
+},
+{
+"nama": "AMELIE PARISYA NASDA",
+"status": "Siswa",
+"token": "616416"
+},
+{
+"nama": "ANDHIKA PRATAMA",
+"status": "Siswa",
+"token": "717467"
+},
+{
+"nama": "Anisah Fitri Nabilah",
+"status": "Siswa",
+"token": "577284"
+},
+{
+"nama": "Arini Suci Mardhatillah",
+"status": "Siswa",
+"token": "108552"
+},
+{
+"nama": "ARLYN ENDANG LESTARI",
+"status": "Siswa",
+"token": "622154"
+},
+{
+"nama": "Aura Safitri Pratiwi",
+"status": "Siswa",
+"token": "920379"
+},
+{
+"nama": "CHISA INAYATULLAH UZMA",
+"status": "Siswa",
+"token": "216907"
+},
+{
+"nama": "DEA AGUSTIN",
+"status": "Siswa",
+"token": "872854"
+},
+{
+"nama": "FACHRI KHAIRUL AFIF",
+"status": "Siswa",
+"token": "381066"
+},
+{
+"nama": "FINA ALICIA",
+"status": "Siswa",
+"token": "271205"
+},
+{
+"nama": "Franky Lecho Ramadhan",
+"status": "Siswa",
+"token": "935159"
+},
+{
+"nama": "HADZAQA MELINDA ZHAFIRA",
+"status": "Siswa",
+"token": "008480"
+},
+{
+"nama": "M. Zaky",
+"status": "Siswa",
+"token": "346326"
+},
+{
+"nama": "Muhamad Bayu Samudra",
+"status": "Siswa",
+"token": "272325"
+},
+{
+"nama": "Muhammad Rai Aji Wibawa",
+"status": "Siswa",
+"token": "500086"
+},
+{
+"nama": "MUTIARA PUTRI",
+"status": "Siswa",
+"token": "842534"
+},
+{
+"nama": "NAILAH RAUDATUL JANNAH",
+"status": "Siswa",
+"token": "269317"
+},
+{
+"nama": "PHABITO TRI YOGA",
+"status": "Siswa",
+"token": "374850"
+},
+{
+"nama": "RAFFEL ZAHY R. FATHIN",
+"status": "Siswa",
+"token": "019335"
+},
+{
+"nama": "RAKA ARDIANSYAH PRATAMA",
+"status": "Siswa",
+"token": "144421"
+},
+{
+"nama": "REFELINO ADHA PUTRA",
+"status": "Siswa",
+"token": "712778"
+},
+{
+"nama": "SALMAN AL FARISI",
+"status": "Siswa",
+"token": "569907"
+},
+{
+"nama": "SELAMET NOVAL KUSUMA WIJAYA",
+"status": "Siswa",
+"token": "740730"
+},
+{
+"nama": "SEPTYA RIZQI RAMADHANI",
+"status": "Siswa",
+"token": "701534"
+},
+{
+"nama": "TITANS IRZI LEDANDI",
+"status": "Siswa",
+"token": "117334"
+},
+{
+"nama": "YUYUN APRILLIANA",
+"status": "Siswa",
+"token": "590846"
+},
+{
+"nama": "AHMAD FAHRAN HAFIZ",
+"status": "Siswa",
+"token": "749766"
+},
+{
+"nama": "Alberto Rezky Manalu",
+"status": "Siswa",
+"token": "173664"
+},
+{
+"nama": "ALISYAH TRI NUR ANJANI",
+"status": "Siswa",
+"token": "358241"
+},
+{
+"nama": "Alunan Nirwana Matahari",
+"status": "Siswa",
+"token": "867327"
+},
+{
+"nama": "Asmira Nursirani",
+"status": "Siswa",
+"token": "524027"
+},
+{
+"nama": "AYUDHIA RAHMAH",
+"status": "Siswa",
+"token": "832621"
+},
+{
+"nama": "CANTIKA DWI ANDINI AZHARI",
+"status": "Siswa",
+"token": "405520"
+},
+{
+"nama": "Dastin Xandria",
+"status": "Siswa",
+"token": "875647"
+},
+{
+"nama": "Dimas Candra Pratama",
+"status": "Siswa",
+"token": "786836"
+},
+{
+"nama": "EHSAN",
+"status": "Siswa",
+"token": "906247"
+},
+{
+"nama": "ELSA MAHARANI",
+"status": "Siswa",
+"token": "515266"
+},
+{
+"nama": "FADLY AL FAHRIDZI",
+"status": "Siswa",
+"token": "822067"
+},
+{
+"nama": "HANIFA LUTHFIYAH",
+"status": "Siswa",
+"token": "219600"
+},
+{
+"nama": "JAVIER ROJA IZAZ SAMIH",
+"status": "Siswa",
+"token": "924843"
+},
+{
+"nama": "KANZZAKY",
+"status": "Siswa",
+"token": "406063"
+},
+{
+"nama": "LATIFA HANNUM TANJUNG",
+"status": "Siswa",
+"token": "116953"
+},
+{
+"nama": "M. FAHRAN FARID AYYASH",
+"status": "Siswa",
+"token": "906813"
+},
+{
+"nama": "MEILYA NURTEDJA",
+"status": "Siswa",
+"token": "365043"
+},
+{
+"nama": "Moh. Raivan Rozanaziffah",
+"status": "Siswa",
+"token": "593527"
+},
+{
+"nama": "MUHAMMAD ANDRA JULIANDI FACHRENZA",
+"status": "Siswa",
+"token": "273718"
+},
+{
+"nama": "MUHAMMAD FAIQ IZZILGHAZY",
+"status": "Siswa",
+"token": "244990"
+},
+{
+"nama": "MUHAMMAD FAUZI KHAIRUL PUTRA",
+"status": "Siswa",
+"token": "886299"
+},
+{
+"nama": "MUHAMMAD OKTA ALIF SAPUTRA",
+"status": "Siswa",
+"token": "807672"
+},
+{
+"nama": "RAHMAT RIZKI",
+"status": "Siswa",
+"token": "318757"
+},
+{
+"nama": "RAISYA FADHILLAH HUSNA",
+"status": "Siswa",
+"token": "183911"
+},
+{
+"nama": "RAKA MAULANA",
+"status": "Siswa",
+"token": "160916"
+},
+{
+"nama": "RIDHO KHAIRULLAH SIDIK",
+"status": "Siswa",
+"token": "838048"
+},
+{
+"nama": "RISKI IDUL SAPUTRA",
+"status": "Siswa",
+"token": "388596"
+},
+{
+"nama": "Shandryna Aulia Putri",
+"status": "Siswa",
+"token": "665762"
+},
+{
+"nama": "Sheelva Shafella Aileen",
+"status": "Siswa",
+"token": "798469"
+},
+{
+"nama": "TRISYA NANDIA FADJRIN",
+"status": "Siswa",
+"token": "412515"
+},
+{
+"nama": "VADESCA NAOKI",
+"status": "Siswa",
+"token": "395395"
+},
+{
+"nama": "VIQRI ALFARO",
+"status": "Siswa",
+"token": "993877"
+},
+{
+"nama": "Zhafira Rahayyu",
+"status": "Siswa",
+"token": "207497"
+},
+{
+"nama": "AFFANDI AHMAD FADHLI",
+"status": "Siswa",
+"token": "411712"
+},
+{
+"nama": "AISYAHIRA PUTRI",
+"status": "Siswa",
+"token": "387193"
+},
+{
+"nama": "ALFIN HAZANI",
+"status": "Siswa",
+"token": "744482"
+},
+{
+"nama": "ANGGA DWI RIANTO",
+"status": "Siswa",
+"token": "958260"
+},
+{
+"nama": "AURA BILQIS NASUTION",
+"status": "Siswa",
+"token": "760253"
+},
+{
+"nama": "DIRLY KIAN SUHADA",
+"status": "Siswa",
+"token": "099682"
+},
+{
+"nama": "FADHIL AL AFGHANI",
+"status": "Siswa",
+"token": "718741"
+},
+{
+"nama": "FARIZ MUZAMIL",
+"status": "Siswa",
+"token": "871218"
+},
+{
+"nama": "Fitri Aisyah Soraya Batubara",
+"status": "Siswa",
+"token": "425226"
+},
+{
+"nama": "Jeremy Febriano Simatupang",
+"status": "Siswa",
+"token": "697795"
+},
+{
+"nama": "Khanza Leonamira Akbar",
+"status": "Siswa",
+"token": "503260"
+},
+{
+"nama": "M. FERDIANSYAH",
+"status": "Siswa",
+"token": "026736"
+},
+{
+"nama": "Midi Ramadani",
+"status": "Siswa",
+"token": "610880"
+},
+{
+"nama": "Muhammad Abdurrahman Hakim",
+"status": "Siswa",
+"token": "984399"
+},
+{
+"nama": "Muhammad Ghaisan Dhiyyaaddien",
+"status": "Siswa",
+"token": "526531"
+},
+{
+"nama": "Muhammad Gilang Syaputra",
+"status": "Siswa",
+"token": "342452"
+},
+{
+"nama": "MUTIA AL-HAFIDH",
+"status": "Siswa",
+"token": "359475"
+},
+{
+"nama": "NABIILAH 'AFIIFAH SYAHIIRAH",
+"status": "Siswa",
+"token": "084918"
+},
+{
+"nama": "NADEA PERMATA DEVI",
+"status": "Siswa",
+"token": "874416"
+},
+{
+"nama": "Nova Raysa Anjani",
+"status": "Siswa",
+"token": "927931"
+},
+{
+"nama": "Nur Cahayati Ardianta Putri",
+"status": "Siswa",
+"token": "041305"
+},
+{
+"nama": "RAFIQ HARIRI ALFREZENDO",
+"status": "Siswa",
+"token": "883324"
+},
+{
+"nama": "RAGIL TAPALIONG",
+"status": "Siswa",
+"token": "682211"
+},
+{
+"nama": "Sadewa Alvineri",
+"status": "Siswa",
+"token": "750347"
+},
+{
+"nama": "SRI RAHAYU",
+"status": "Siswa",
+"token": "602217"
+},
+{
+"nama": "SYAUQI RAMADHAN",
+"status": "Siswa",
+"token": "030952"
+},
+{
+"nama": "Tomy Mandala Widya Gumay",
+"status": "Siswa",
+"token": "321802"
+},
+{
+"nama": "TRI SYAAS RAPINKO",
+"status": "Siswa",
+"token": "411876"
+},
+{
+"nama": "VIKO ALAN DANI",
+"status": "Siswa",
+"token": "996109"
+},
+{
+"nama": "YOLA KHAIRUNNISA ANDRIANI",
+"status": "Siswa",
+"token": "591316"
+},
+{
+"nama": "Yusuf Adriansyah",
+"status": "Siswa",
+"token": "874568"
+},
+{
+"nama": "ZAFA NOVTAYORI",
+"status": "Siswa",
+"token": "549771"
+},
+{
+"nama": "ALFIN NAWRIL QOMARI",
+"status": "Siswa",
+"token": "721296"
+},
+{
+"nama": "ANISAH TRI RAMADANI",
+"status": "Siswa",
+"token": "786076"
+},
+{
+"nama": "ARIO RAIHAN",
+"status": "Siswa",
+"token": "409282"
+},
+{
+"nama": "Atin Nur Asri",
+"status": "Siswa",
+"token": "063684"
+},
+{
+"nama": "Atsirah Hidayah",
+"status": "Siswa",
+"token": "130608"
+},
+{
+"nama": "DANANG DWI GUSSAINI",
+"status": "Siswa",
+"token": "484972"
+},
+{
+"nama": "Dhita Olivia",
+"status": "Siswa",
+"token": "886538"
+},
+{
+"nama": "DWI ROLANDA PAHLEVI",
+"status": "Siswa",
+"token": "734852"
+},
+{
+"nama": "Edly Bawelle",
+"status": "Siswa",
+"token": "940394"
+},
+{
+"nama": "FARID NUR ALAMSYAH",
+"status": "Siswa",
+"token": "376608"
+},
+{
+"nama": "FELLISA",
+"status": "Siswa",
+"token": "263932"
+},
+{
+"nama": "Hajri Rully Restu",
+"status": "Siswa",
+"token": "811311"
+},
+{
+"nama": "INTAN NURAINI",
+"status": "Siswa",
+"token": "319121"
+},
+{
+"nama": "KAILA SALSABILLA",
+"status": "Siswa",
+"token": "775155"
+},
+{
+"nama": "KALILA ROSA",
+"status": "Siswa",
+"token": "895759"
+},
+{
+"nama": "KRISNA BAYU PAMUNGKAS",
+"status": "Siswa",
+"token": "487831"
+},
+{
+"nama": "LENNY SRI REZEKI SIPAHUTAR",
+"status": "Siswa",
+"token": "863033"
+},
+{
+"nama": "MARVEL FEBIAN ELDIKA",
+"status": "Siswa",
+"token": "288081"
+},
+{
+"nama": "MILANDA DELTA ANUGGERA",
+"status": "Siswa",
+"token": "490202"
+},
+{
+"nama": "MUHAMMAD MUFID HIZBULLAH AL-KARIM",
+"status": "Siswa",
+"token": "248750"
+},
+{
+"nama": "NADIF RAFIFAH INDAH WULANDARI",
+"status": "Siswa",
+"token": "193920"
+},
+{
+"nama": "NASWA NUR SHINTA",
+"status": "Siswa",
+"token": "874715"
+},
+{
+"nama": "RANIA PUTRI RAHMADANI",
+"status": "Siswa",
+"token": "695953"
+},
+{
+"nama": "Rizki maharani",
+"status": "Siswa",
+"token": "000247"
+},
+{
+"nama": "Safira Kesya Rahmadini",
+"status": "Siswa",
+"token": "531978"
+},
+{
+"nama": "SALWA KHAIRANI FITRI",
+"status": "Siswa",
+"token": "623913"
+},
+{
+"nama": "SELA SISILLIA",
+"status": "Siswa",
+"token": "337814"
+},
+{
+"nama": "SHERLY APRIWINARTI",
+"status": "Siswa",
+"token": "280347"
+},
+{
+"nama": "TESSA AURA SYAFIQAH",
+"status": "Siswa",
+"token": "266024"
+},
+{
+"nama": "TRI MUSTIKA DEWI",
+"status": "Siswa",
+"token": "370553"
+},
+{
+"nama": "VANESYA DEA JUNIZA",
+"status": "Siswa",
+"token": "957989"
+},
+{
+"nama": "VERONICA AULIA PUTRI PAPENDI",
+"status": "Siswa",
+"token": "294993"
+},
+{
+"nama": "WINGKI YOLANDA",
+"status": "Siswa",
+"token": "472495"
+},
+{
+"nama": "Xenia Hani Heston",
+"status": "Siswa",
+"token": "337413"
+},
+{
+"nama": "AISYAH ANDINI PUTRI",
+"status": "Siswa",
+"token": "885060"
+},
+{
+"nama": "ALIZA NATAZIYA RAFELINA",
+"status": "Siswa",
+"token": "327217"
+},
+{
+"nama": "ANDINI ANUGRAH LESTARI",
+"status": "Siswa",
+"token": "420697"
+},
+{
+"nama": "AQILLA ARINCIA JOSI",
+"status": "Siswa",
+"token": "850209"
+},
+{
+"nama": "Auliya Putri Naqiyyah",
+"status": "Siswa",
+"token": "666194"
+},
+{
+"nama": "BENEDIK TEO",
+"status": "Siswa",
+"token": "655323"
+},
+{
+"nama": "DINDA INAYAH AZZAHRA",
+"status": "Siswa",
+"token": "446822"
+},
+{
+"nama": "Egi Duantara Pratama",
+"status": "Siswa",
+"token": "749404"
+},
+{
+"nama": "FABRIZIO PATO ARGANA",
+"status": "Siswa",
+"token": "801799"
+},
+{
+"nama": "FIINA MIFTAKHUL AKHIRO",
+"status": "Siswa",
+"token": "794652"
+},
+{
+"nama": "GEBY DWI VANESYA",
+"status": "Siswa",
+"token": "986828"
+},
+{
+"nama": "Gretha Chairan Maharani",
+"status": "Siswa",
+"token": "740321"
+},
+{
+"nama": "Jelita Puspita Sari",
+"status": "Siswa",
+"token": "960093"
+},
+{
+"nama": "Khanza Cika Laura",
+"status": "Siswa",
+"token": "473401"
+},
+{
+"nama": "Michelle Lizani Pahrudin",
+"status": "Siswa",
+"token": "593141"
+},
+{
+"nama": "Muhamad Galang Saputra",
+"status": "Siswa",
+"token": "541788"
+},
+{
+"nama": "MUHAMMAD ALDI ALFATIH",
+"status": "Siswa",
+"token": "459556"
+},
+{
+"nama": "Nadhif Amar Sumantri",
+"status": "Siswa",
+"token": "622019"
+},
+{
+"nama": "Nafilah Naifa Syahkira",
+"status": "Siswa",
+"token": "082754"
+},
+{
+"nama": "NATASIA AYUH LESTARI",
+"status": "Siswa",
+"token": "960411"
+},
+{
+"nama": "Natasya Mutia Anjani",
+"status": "Siswa",
+"token": "046993"
+},
+{
+"nama": "NAYLA RAHMANISA",
+"status": "Siswa",
+"token": "571330"
+},
+{
+"nama": "NURUL MURIBAINELSI",
+"status": "Siswa",
+"token": "267985"
+},
+{
+"nama": "PIPIN AGUSTINA",
+"status": "Siswa",
+"token": "971059"
+},
+{
+"nama": "Putri Ferrina Ramadhani",
+"status": "Siswa",
+"token": "419287"
+},
+{
+"nama": "QUINSHA DWI PUTRI JULIA",
+"status": "Siswa",
+"token": "635201"
+},
+{
+"nama": "Raihan Hendi Bastian",
+"status": "Siswa",
+"token": "642817"
+},
+{
+"nama": "Relia Puspita Sari",
+"status": "Siswa",
+"token": "135279"
+},
+{
+"nama": "Rendri Phasyak Bumi Vandepaarl",
+"status": "Siswa",
+"token": "577049"
+},
+{
+"nama": "ZAHARA RIHHADATUL AISY",
+"status": "Siswa",
+"token": "262673"
+},
+{
+"nama": "Zaki Santoso",
+"status": "Siswa",
+"token": "954491"
+},
+{
+"nama": "ADRIAN MAULANA AZIZ",
+"status": "Siswa",
+"token": "354938"
+},
+{
+"nama": "Ana Rusniita",
+"status": "Siswa",
+"token": "690169"
+},
+{
+"nama": "Ardy Widya Gumay",
+"status": "Siswa",
+"token": "087181"
+},
+{
+"nama": "DAFFA OKTA PRIZI",
+"status": "Siswa",
+"token": "719349"
+},
+{
+"nama": "Deta Septri Eliza",
+"status": "Siswa",
+"token": "319835"
+},
+{
+"nama": "Febry Rahmad Jodika",
+"status": "Siswa",
+"token": "800414"
+},
+{
+"nama": "FIQHIE AFRIAN FERNANDHEZ",
+"status": "Siswa",
+"token": "583635"
+},
+{
+"nama": "Fitri Fariya Nengsi",
+"status": "Siswa",
+"token": "422712"
+},
+{
+"nama": "Jupita Rama Dani",
+"status": "Siswa",
+"token": "797814"
+},
+{
+"nama": "Khayara Rafifah Andini",
+"status": "Siswa",
+"token": "811032"
+},
+{
+"nama": "KUKUH AYU PAWITI",
+"status": "Siswa",
+"token": "681076"
+},
+{
+"nama": "MERRY AFRIANZA",
+"status": "Siswa",
+"token": "187928"
+},
+{
+"nama": "Muhamad Syamil",
+"status": "Siswa",
+"token": "364994"
+},
+{
+"nama": "MUTIARA JENITA PUTRI",
+"status": "Siswa",
+"token": "442213"
+},
+{
+"nama": "NUR CHAMIDAH",
+"status": "Siswa",
+"token": "215912"
+},
+{
+"nama": "NURLELI FEBIOLA",
+"status": "Siswa",
+"token": "126210"
+},
+{
+"nama": "Pebrianto",
+"status": "Siswa",
+"token": "760898"
+},
+{
+"nama": "Putra Anugra",
+"status": "Siswa",
+"token": "477807"
+},
+{
+"nama": "RAFI ALHADI SITANGGANG",
+"status": "Siswa",
+"token": "636843"
+},
+{
+"nama": "Raysa Edelyana",
+"status": "Siswa",
+"token": "676054"
+},
+{
+"nama": "Regisyah Pariha",
+"status": "Siswa",
+"token": "878856"
+},
+{
+"nama": "Rena Aprilia Putri",
+"status": "Siswa",
+"token": "617509"
+},
+{
+"nama": "REZA CAESAR SAFERO",
+"status": "Siswa",
+"token": "667676"
+},
+{
+"nama": "SALAWATUL AGUSTINA",
+"status": "Siswa",
+"token": "297613"
+},
+{
+"nama": "Suci Triwahyuni",
+"status": "Siswa",
+"token": "909888"
+},
+{
+"nama": "TASYA ANJANI",
+"status": "Siswa",
+"token": "334103"
+},
+{
+"nama": "TIO RAMA CARNANDO",
+"status": "Siswa",
+"token": "067490"
+},
+{
+"nama": "VALIA ARISKA",
+"status": "Siswa",
+"token": "337076"
+},
+{
+"nama": "VANNI RAKASIH",
+"status": "Siswa",
+"token": "557067"
+},
+{
+"nama": "VENNY SALSA QARYATUL ADINI",
+"status": "Siswa",
+"token": "739094"
+},
+{
+"nama": "Yoga Pranata jaya",
+"status": "Siswa",
+"token": "613577"
+},
+{
+"nama": "Abimayu Pratama Firdaus",
+"status": "Siswa",
+"token": "174676"
+},
+{
+"nama": "ALFAIZA CITRA RAMADHANI",
+"status": "Siswa",
+"token": "386893"
+},
+{
+"nama": "ALYA YASINTA",
+"status": "Siswa",
+"token": "546098"
+},
+{
+"nama": "Citra Mikaila",
+"status": "Siswa",
+"token": "883595"
+},
+{
+"nama": "DAFFA LISANA SHIDQIN",
+"status": "Siswa",
+"token": "182506"
+},
+{
+"nama": "DAFFA PRATAMA RAHIM",
+"status": "Siswa",
+"token": "711011"
+},
+{
+"nama": "Dellvy Ramadani",
+"status": "Siswa",
+"token": "588738"
+},
+{
+"nama": "DESVITA MAHARANI",
+"status": "Siswa",
+"token": "819803"
+},
+{
+"nama": "DEVITA NOVIA",
+"status": "Siswa",
+"token": "190120"
+},
+{
+"nama": "Gita Ayu Maharani",
+"status": "Siswa",
+"token": "122588"
+},
+{
+"nama": "Hellen Dwi Zazkia",
+"status": "Siswa",
+"token": "367377"
+},
+{
+"nama": "KEVIN KURNIANSYAH",
+"status": "Siswa",
+"token": "019939"
+},
+{
+"nama": "KINARA TIAS MAHARANI",
+"status": "Siswa",
+"token": "604169"
+},
+{
+"nama": "Marik Julianto",
+"status": "Siswa",
+"token": "073700"
+},
+{
+"nama": "Masita Sesba",
+"status": "Siswa",
+"token": "104828"
+},
+{
+"nama": "MAYA PENTI AULIA",
+"status": "Siswa",
+"token": "778507"
+},
+{
+"nama": "Meheza Dio Sandika",
+"status": "Siswa",
+"token": "714564"
+},
+{
+"nama": "MUHAMMAD ALIF FATHANAH",
+"status": "Siswa",
+"token": "265642"
+},
+{
+"nama": "NANDA ADELIA RAHMADANI",
+"status": "Siswa",
+"token": "830872"
+},
+{
+"nama": "NATASYA SYAHFITRI WULANDARI",
+"status": "Siswa",
+"token": "922437"
+},
+{
+"nama": "NATHASYA DIENIEOKTARIA",
+"status": "Siswa",
+"token": "322460"
+},
+{
+"nama": "Putri Aulia",
+"status": "Siswa",
+"token": "339419"
+},
+{
+"nama": "Radhitya Anugrah Pratama Hidayat",
+"status": "Siswa",
+"token": "134337"
+},
+{
+"nama": "RANI",
+"status": "Siswa",
+"token": "824130"
+},
+{
+"nama": "REJA DARMANSYAH",
+"status": "Siswa",
+"token": "805864"
+},
+{
+"nama": "Rendra Adifia Putra",
+"status": "Siswa",
+"token": "286734"
+},
+{
+"nama": "Rindiyani",
+"status": "Siswa",
+"token": "248416"
+},
+{
+"nama": "Riri Irma Indriani",
+"status": "Siswa",
+"token": "200909"
+},
+{
+"nama": "Sentia Olipia",
+"status": "Siswa",
+"token": "086117"
+},
+{
+"nama": "YESIL HARTIKA",
+"status": "Siswa",
+"token": "751750"
+},
+{
+"nama": "Zahira Putri Hariyanto",
+"status": "Siswa",
+"token": "207958"
+},
+{
+"nama": "Achtar Gulfam Furozh",
+"status": "Siswa",
+"token": "929060"
+},
+{
+"nama": "Alif Radinka Putra",
+"status": "Siswa",
+"token": "548080"
+},
+{
+"nama": "AMELIA NATHALIE PUTRI",
+"status": "Siswa",
+"token": "283353"
+},
+{
+"nama": "Andrea Maru Wirata",
+"status": "Siswa",
+"token": "544926"
+},
+{
+"nama": "ATAYA NAUFAL FIRJATULLAH SIHITE",
+"status": "Siswa",
+"token": "462914"
+},
+{
+"nama": "Aulia Nursalsabila",
+"status": "Siswa",
+"token": "256719"
+},
+{
+"nama": "Aulia Salsabilla Putri Dearie",
+"status": "Siswa",
+"token": "074860"
+},
+{
+"nama": "Bimo Aditya Sasmito",
+"status": "Siswa",
+"token": "131759"
+},
+{
+"nama": "Dyari Nazar Anshary",
+"status": "Siswa",
+"token": "658315"
+},
+{
+"nama": "FAIRUZ ZAKI",
+"status": "Siswa",
+"token": "500883"
+},
+{
+"nama": "Fathio Atha",
+"status": "Siswa",
+"token": "154693"
+},
+{
+"nama": "fathurrahman novrian",
+"status": "Siswa",
+"token": "919157"
+},
+{
+"nama": "FILZAH ADIBA JACINDA",
+"status": "Siswa",
+"token": "569157"
+},
+{
+"nama": "FRICHILIA FITRI RAHMADANI",
+"status": "Siswa",
+"token": "668565"
+},
+{
+"nama": "Grace Amelia Manulang",
+"status": "Siswa",
+"token": "406727"
+},
+{
+"nama": "Ibrahim Rafii",
+"status": "Siswa",
+"token": "448801"
+},
+{
+"nama": "JOICHA FALENT BIG DIYO",
+"status": "Siswa",
+"token": "632197"
+},
+{
+"nama": "M. Farhan Al Wafiq",
+"status": "Siswa",
+"token": "201947"
+},
+{
+"nama": "M. Ghaza Al Ghazali",
+"status": "Siswa",
+"token": "714642"
+},
+{
+"nama": "Marcellino Andha Dinata",
+"status": "Siswa",
+"token": "879321"
+},
+{
+"nama": "Meilinda Rahmawati",
+"status": "Siswa",
+"token": "330306"
+},
+{
+"nama": "Michael Trisatrio Mukti",
+"status": "Siswa",
+"token": "164267"
+},
+{
+"nama": "MUHAMAD RAAFI RAMADHAN",
+"status": "Siswa",
+"token": "617428"
+},
+{
+"nama": "MUHAMMAD YASER ASYAUQI",
+"status": "Siswa",
+"token": "522691"
+},
+{
+"nama": "NAFIZ FATHIR AKBAR KOLIQ",
+"status": "Siswa",
+"token": "857701"
+},
+{
+"nama": "NAYAKA SEPTIANSYAH PUTERA",
+"status": "Siswa",
+"token": "342245"
+},
+{
+"nama": "Ra'idah Tsurayya Agustin",
+"status": "Siswa",
+"token": "535320"
+},
+{
+"nama": "RAMADHAN EKO SETIANTO",
+"status": "Siswa",
+"token": "278069"
+},
+{
+"nama": "RAYYAN AL FARHAN",
+"status": "Siswa",
+"token": "138128"
+},
+{
+"nama": "Resna Anjani Desfitri",
+"status": "Siswa",
+"token": "761703"
+},
+{
+"nama": "RIFKI LUTFIAN",
+"status": "Siswa",
+"token": "977838"
+},
+{
+"nama": "RIYADI HASIHOLAN HUTAGALUNG",
+"status": "Siswa",
+"token": "605495"
+},
+{
+"nama": "Rizky Ravi Kinglove",
+"status": "Siswa",
+"token": "472746"
+},
+{
+"nama": "ZAKIA KURNIA PUTRI",
+"status": "Siswa",
+"token": "179499"
+},
+{
+"nama": "Adiel Radithya Putra Irwana",
+"status": "Siswa",
+"token": "915262"
+},
+{
+"nama": "ALGA VAHRY",
+"status": "Siswa",
+"token": "861887"
+},
+{
+"nama": "ARI SURYADE",
+"status": "Siswa",
+"token": "175091"
+},
+{
+"nama": "ATAYA FIKRI RIZQULLAH",
+"status": "Siswa",
+"token": "729279"
+},
+{
+"nama": "FACHRI MAJIDAN AFANDI",
+"status": "Siswa",
+"token": "542403"
+},
+{
+"nama": "FARHAN HENDIKA",
+"status": "Siswa",
+"token": "895050"
+},
+{
+"nama": "FATAHILLAH AL-MUNAWAR",
+"status": "Siswa",
+"token": "421594"
+},
+{
+"nama": "FERDI MUHAMMAD RAMADAN",
+"status": "Siswa",
+"token": "533189"
+},
+{
+"nama": "HANDRA DAFA SETIAWAN",
+"status": "Siswa",
+"token": "025089"
+},
+{
+"nama": "KAYLA BUNGA AZURA",
+"status": "Siswa",
+"token": "028698"
+},
+{
+"nama": "KIRANA PUTRI DEWA ANGGARA",
+"status": "Siswa",
+"token": "871342"
+},
+{
+"nama": "MUHAMMAD ADZKA ANDYRA",
+"status": "Siswa",
+"token": "097952"
+},
+{
+"nama": "MUHAMMAD AFIF HAMDANY",
+"status": "Siswa",
+"token": "850123"
+},
+{
+"nama": "MUHAMMAD AFRIDHO ZULKARNAIN",
+"status": "Siswa",
+"token": "587666"
+},
+{
+"nama": "Muhammad Akbar Dwiman",
+"status": "Siswa",
+"token": "696546"
+},
+{
+"nama": "MUHAMMAD ALIEF PRATAMA",
+"status": "Siswa",
+"token": "098941"
+},
+{
+"nama": "MUHAMMAD ALTHOOF ADJI HIDAYAT",
+"status": "Siswa",
+"token": "337096"
+},
+{
+"nama": "MUHAMMAD FIKRI HAIKAL",
+"status": "Siswa",
+"token": "110806"
+},
+{
+"nama": "Muhammad Hafidz Azzra Ananda",
+"status": "Siswa",
+"token": "391376"
+},
+{
+"nama": "MUHAMMAD IRSYAD SHOLIH",
+"status": "Siswa",
+"token": "605930"
+},
+{
+"nama": "MUHAMMAD RADITHYA HENDARWAN",
+"status": "Siswa",
+"token": "424144"
+},
+{
+"nama": "MUHAMMAD RAIHAN PRATAMA",
+"status": "Siswa",
+"token": "826386"
+},
+{
+"nama": "MUHAMMAD REVAN RAMADHAN",
+"status": "Siswa",
+"token": "990758"
+},
+{
+"nama": "Rafif Hazim Syahputra",
+"status": "Siswa",
+"token": "779564"
+},
+{
+"nama": "RAIHAN ATHA NASHIF",
+"status": "Siswa",
+"token": "533813"
+},
+{
+"nama": "SHERLLY WINDY PUTRI",
+"status": "Siswa",
+"token": "994027"
+},
+{
+"nama": "SHIFA ANDIRA",
+"status": "Siswa",
+"token": "897983"
+},
+{
+"nama": "ULIL AMRI",
+"status": "Siswa",
+"token": "035369"
+},
+{
+"nama": "Valentio Renata",
+"status": "Siswa",
+"token": "625338"
+},
+{
+"nama": "WAFRI MIRZA FARRAS",
+"status": "Siswa",
+"token": "426125"
+},
+{
+"nama": "WULAN SARI",
+"status": "Siswa",
+"token": "963182"
+},
+{
+"nama": "Yafii' Ahmad",
+"status": "Siswa",
+"token": "406059"
+},
+{
+"nama": "Zikri Herdiansyah",
+"status": "Siswa",
+"token": "273221"
+},
+{
+"nama": "ZWINTA ZASKIA",
+"status": "Siswa",
+"token": "321907"
+},
+{
+"nama": "Agrian Adamsyah",
+"status": "Siswa",
+"token": "589522"
+},
+{
+"nama": "AHMED AQEL",
+"status": "Siswa",
+"token": "415532"
+},
+{
+"nama": "Alifatul akram",
+"status": "Siswa",
+"token": "170307"
+},
+{
+"nama": "ANDIKA DAFFA NOVIANSYAH",
+"status": "Siswa",
+"token": "742699"
+},
+{
+"nama": "ANISA ZAZKIA",
+"status": "Siswa",
+"token": "915003"
+},
+{
+"nama": "APRILIAN NURRIZKY",
+"status": "Siswa",
+"token": "247198"
+},
+{
+"nama": "Ayuni Syifa Ningrum",
+"status": "Siswa",
+"token": "164045"
+},
+{
+"nama": "DAUT RIO PRATAMA MANURUNG",
+"status": "Siswa",
+"token": "203126"
+},
+{
+"nama": "David Fernando",
+"status": "Siswa",
+"token": "344459"
+},
+{
+"nama": "Destia Puspa Ningrum",
+"status": "Siswa",
+"token": "156922"
+},
+{
+"nama": "FHADEL MUHAMMAD AIRSYA",
+"status": "Siswa",
+"token": "196612"
+},
+{
+"nama": "Fino delta alhafiz",
+"status": "Siswa",
+"token": "448957"
+},
+{
+"nama": "HARDI",
+"status": "Siswa",
+"token": "121295"
+},
+{
+"nama": "Kenzie Athar Nurrakhman",
+"status": "Siswa",
+"token": "872215"
+},
+{
+"nama": "MAHARDIKA DAFFA SATRIA",
+"status": "Siswa",
+"token": "746350"
+},
+{
+"nama": "MARSHA SHINTIA BUNGA",
+"status": "Siswa",
+"token": "193409"
+},
+{
+"nama": "MARVELL PRADITIYA RAMADHAN",
+"status": "Siswa",
+"token": "994678"
+},
+{
+"nama": "MUHAMMAD ADITYA ANUGERAH",
+"status": "Siswa",
+"token": "666892"
+},
+{
+"nama": "MUHAMMAD AHFAZHANI SEHAN",
+"status": "Siswa",
+"token": "135316"
+},
+{
+"nama": "Muhammad Daffa Inara",
+"status": "Siswa",
+"token": "237144"
+},
+{
+"nama": "MUHAMMAD FARIS RAHMAN",
+"status": "Siswa",
+"token": "384873"
+},
+{
+"nama": "MUHAMMAD HABIB AL-KHAZA",
+"status": "Siswa",
+"token": "387943"
+},
+{
+"nama": "Muhammad Ikhlasul Amal",
+"status": "Siswa",
+"token": "962491"
+},
+{
+"nama": "Muhammad Kemeshi Tianejang",
+"status": "Siswa",
+"token": "487680"
+},
+{
+"nama": "Muhammad Kezia Arrafah",
+"status": "Siswa",
+"token": "654327"
+},
+{
+"nama": "MUHAMMAD RAKA AMANDES",
+"status": "Siswa",
+"token": "426565"
+},
+{
+"nama": "MUHAMMAD RIDHO",
+"status": "Siswa",
+"token": "879112"
+},
+{
+"nama": "MUHAMMAD ZARQONI",
+"status": "Siswa",
+"token": "806109"
+},
+{
+"nama": "Nabila Putri Ramadan",
+"status": "Siswa",
+"token": "933197"
+},
+{
+"nama": "NATASYA FEBRIANTI",
+"status": "Siswa",
+"token": "218438"
+},
+{
+"nama": "Parhan Al Fahdil Ihzan",
+"status": "Siswa",
+"token": "347940"
+},
+{
+"nama": "RAVA EVAN ARKANA",
+"status": "Siswa",
+"token": "608145"
+},
+{
+"nama": "Robby Firmando",
+"status": "Siswa",
+"token": "398960"
+},
+{
+"nama": "ZEVEL OLDINOF AZIS",
+"status": "Siswa",
+"token": "851942"
+},
+{
+"nama": "ALISHA NADINE VALERIE",
+"status": "Siswa",
+"token": "012367"
+},
+{
+"nama": "Alvero Muhamad Sanjaya",
+"status": "Siswa",
+"token": "118775"
+},
+{
+"nama": "Atma Noverin",
+"status": "Siswa",
+"token": "109363"
+},
+{
+"nama": "BIMA SAKTIAWAN",
+"status": "Siswa",
+"token": "463719"
+},
+{
+"nama": "CHELSI AMELIA",
+"status": "Siswa",
+"token": "694184"
+},
+{
+"nama": "CHIKO AGUSTAFAH HIDAYATULLAH",
+"status": "Siswa",
+"token": "148156"
+},
+{
+"nama": "DAFFA KHAIRAN PUTRA EFENDI",
+"status": "Siswa",
+"token": "894423"
+},
+{
+"nama": "Debby Alvionita",
+"status": "Siswa",
+"token": "520333"
+},
+{
+"nama": "DINA RAMADANI PUSPITA SARI",
+"status": "Siswa",
+"token": "099826"
+},
+{
+"nama": "Diva Putri Ramadhani",
+"status": "Siswa",
+"token": "789567"
+},
+{
+"nama": "ELSA NOVA DISTIANI",
+"status": "Siswa",
+"token": "137549"
+},
+{
+"nama": "Fareza Mutia Angeliza",
+"status": "Siswa",
+"token": "622531"
+},
+{
+"nama": "FEBY FRISKA PUTRI",
+"status": "Siswa",
+"token": "737338"
+},
+{
+"nama": "IRWAN HADIWINATA",
+"status": "Siswa",
+"token": "603723"
+},
+{
+"nama": "Levi Andreansyah",
+"status": "Siswa",
+"token": "227716"
+},
+{
+"nama": "MELI PUTRIANA",
+"status": "Siswa",
+"token": "062348"
+},
+{
+"nama": "MUHAMMAD RIZKI RAIHAN PUTRA BERLI",
+"status": "Siswa",
+"token": "537066"
+},
+{
+"nama": "NADYA ILMI MUHALLAH",
+"status": "Siswa",
+"token": "318576"
+},
+{
+"nama": "Naszwa Tri Kanaya",
+"status": "Siswa",
+"token": "517025"
+},
+{
+"nama": "RACHEL LEILA PAHLEVI",
+"status": "Siswa",
+"token": "864970"
+},
+{
+"nama": "RAGIL HUSEIN OLIFIYANTO",
+"status": "Siswa",
+"token": "419285"
+},
+{
+"nama": "RAMADILA ALINRI",
+"status": "Siswa",
+"token": "594236"
+},
+{
+"nama": "RENDRY FERDIAN ALFREDO",
+"status": "Siswa",
+"token": "794544"
+},
+{
+"nama": "SAFA AQILA PUTRI",
+"status": "Siswa",
+"token": "859117"
+},
+{
+"nama": "Selyza Rahma Sari",
+"status": "Siswa",
+"token": "023594"
+},
+{
+"nama": "SERLIN GEA ANANDA",
+"status": "Siswa",
+"token": "924519"
+},
+{
+"nama": "VEBRY VALENTINUS",
+"status": "Siswa",
+"token": "873490"
+},
+{
+"nama": "VINA FEBRIANI",
+"status": "Siswa",
+"token": "163629"
+},
+{
+"nama": "VIOLA NADIA SAFITRI",
+"status": "Siswa",
+"token": "323962"
+},
+{
+"nama": "Almer Sofian Savero",
+"status": "Siswa",
+"token": "625829"
+},
+{
+"nama": "AMELIA CHETRIN",
+"status": "Siswa",
+"token": "140224"
+},
+{
+"nama": "ANGGELSA PRATAMA",
+"status": "Siswa",
+"token": "186697"
+},
+{
+"nama": "Anggi Legita Futri",
+"status": "Siswa",
+"token": "566660"
+},
+{
+"nama": "Ayu Dia Rama Dani",
+"status": "Siswa",
+"token": "594964"
+},
+{
+"nama": "BEN JEREMIA MARPAUNG",
+"status": "Siswa",
+"token": "299219"
+},
+{
+"nama": "BILQIS SALSABILA RAMADANI",
+"status": "Siswa",
+"token": "868920"
+},
+{
+"nama": "Brenda Rijkhita Croes",
+"status": "Siswa",
+"token": "781486"
+},
+{
+"nama": "Dhea Ayu Fitriana",
+"status": "Siswa",
+"token": "540638"
+},
+{
+"nama": "IKAYLA TIVONA NABIL",
+"status": "Siswa",
+"token": "331446"
+},
+{
+"nama": "INDAH RIZKI AIDILAH FITRIA",
+"status": "Siswa",
+"token": "019578"
+},
+{
+"nama": "INTAN ZHAFIRAH",
+"status": "Siswa",
+"token": "168342"
+},
+{
+"nama": "INZAKBIR ATHAA RIDIX KURNIAWAN",
+"status": "Siswa",
+"token": "577668"
+},
+{
+"nama": "Jeki Saputra",
+"status": "Siswa",
+"token": "165867"
+},
+{
+"nama": "JUANDA RIZKI DWI PUTRA",
+"status": "Siswa",
+"token": "792504"
+},
+{
+"nama": "KEYSA TRIYANA DEWI NATASYA",
+"status": "Siswa",
+"token": "509595"
+},
+{
+"nama": "Liana Anggun Lestari",
+"status": "Siswa",
+"token": "764603"
+},
+{
+"nama": "MAUZA NADIRA AYU",
+"status": "Siswa",
+"token": "500566"
+},
+{
+"nama": "MELATI",
+"status": "Siswa",
+"token": "368907"
+},
+{
+"nama": "Meylin Naswa",
+"status": "Siswa",
+"token": "102427"
+},
+{
+"nama": "Muhammad Dhandye Alimin Roni Putra",
+"status": "Siswa",
+"token": "097906"
+},
+{
+"nama": "MUHAMMAD FAUZAN AL GHOFAR",
+"status": "Siswa",
+"token": "735570"
+},
+{
+"nama": "MUHAMMAD RIZKI RAHMADANA",
+"status": "Siswa",
+"token": "102717"
+},
+{
+"nama": "NANDO LERIANSYAH",
+"status": "Siswa",
+"token": "267388"
+},
+{
+"nama": "Regina Dwi Lestari",
+"status": "Siswa",
+"token": "564499"
+},
+{
+"nama": "RICHO JULIANSYA PRATAMA",
+"status": "Siswa",
+"token": "641360"
+},
+{
+"nama": "RIFA ATHALLAH PUTRA",
+"status": "Siswa",
+"token": "742536"
+},
+{
+"nama": "SHAVIA AURA BIANKA",
+"status": "Siswa",
+"token": "346982"
+},
+{
+"nama": "Sintia Widiya Putri",
+"status": "Siswa",
+"token": "758877"
+},
+{
+"nama": "Tiara Safitri",
+"status": "Siswa",
+"token": "930518"
+},
+{
+"nama": "YHOGA PERNANDA",
+"status": "Siswa",
+"token": "929002"
+},
+{
+"nama": "Afrion Rahmat Nurli Hijri, S.Kom",
+"status": "Guru",
+"token": "470603"
+},
+{
+"nama": "Andri Fabiani Martare, A.Md",
+"status": "Guru",
+"token": "484763"
+},
+{
+"nama": "Annisa Fitri",
+"status": "Guru",
+"token": "399165"
+},
+{
+"nama": "Aprillia Zuleha Putri, S.Par",
+"status": "Guru",
+"token": "999478"
+},
+{
+"nama": "Aprita Hamdalena, S.Pd.",
+"status": "Guru",
+"token": "561691"
+},
+{
+"nama": "ASWAJAH",
+"status": "Guru",
+"token": "085765"
+},
+{
+"nama": "Ayu Septiana Putri",
+"status": "Guru",
+"token": "513702"
+},
+{
+"nama": "Christian Adi Negara, S.Kom",
+"status": "Guru",
+"token": "078332"
+},
+{
+"nama": "Desi Marlinda, S.Pd",
+"status": "Guru",
+"token": "009674"
+},
+{
+"nama": "Desi Sri Lusiawati, M. Pd",
+"status": "Guru",
+"token": "378214"
+},
+{
+"nama": "Dessy Kurnia Sari, S.Pd",
+"status": "Guru",
+"token": "847264"
+},
+{
+"nama": "Detty Syari Fatimah, S.Pd",
+"status": "Guru",
+"token": "633197"
+},
+{
+"nama": "Devi Marlina Lova, S.Pd. MM",
+"status": "Guru",
+"token": "602621"
+},
+{
+"nama": "Doli Nopte, S.E",
+"status": "Guru",
+"token": "762849"
+},
+{
+"nama": "Dra. Komariah",
+"status": "Guru",
+"token": "690385"
+},
+{
+"nama": "Dra. Suwarni",
+"status": "Guru",
+"token": "644188"
+},
+{
+"nama": "Drs. Ismael Harahap",
+"status": "Guru",
+"token": "102495"
+},
+{
+"nama": "Drs. Suharto",
+"status": "Guru",
+"token": "022415"
+},
+{
+"nama": "Edison, S.Kom",
+"status": "Guru",
+"token": "232377"
+},
+{
+"nama": "Efrin Febrianti, S.Pd",
+"status": "Guru",
+"token": "997286"
+},
+{
+"nama": "Elda Aprilawati, S.Pd",
+"status": "Guru",
+"token": "175237"
+},
+{
+"nama": "ELFRI SUSANTI, S.Pd",
+"status": "Guru",
+"token": "423831"
+},
+{
+"nama": "Elsa Firdianis, S.Pd",
+"status": "Guru",
+"token": "617978"
+},
+{
+"nama": "ELYNA, S.E, M.Pd",
+"status": "Guru",
+"token": "148938"
+},
+{
+"nama": "Enggar Rodeka Ishara, S.Pd",
+"status": "Guru",
+"token": "411400"
+},
+{
+"nama": "Eni Rosita, S.Kom. M.Pd.",
+"status": "Guru",
+"token": "483070"
+},
+{
+"nama": "ERAWAN PUTRA, S.Kom, M.Pd",
+"status": "Guru",
+"token": "316009"
+},
+{
+"nama": "Erika Kurniawati, S.Sos.I",
+"status": "Guru",
+"token": "640799"
+},
+{
+"nama": "Erlena Soelianti, S.Pd",
+"status": "Guru",
+"token": "904820"
+},
+{
+"nama": "Erma Artika, S.Pd",
+"status": "Guru",
+"token": "951512"
+},
+{
+"nama": "Ervina Maryati, M.Pd",
+"status": "Guru",
+"token": "528509"
+},
+{
+"nama": "ESY MARLIANI, S.E",
+"status": "Guru",
+"token": "110702"
+},
+{
+"nama": "Farhan Aji Akbar, S.Pd",
+"status": "Guru",
+"token": "826038"
+},
+{
+"nama": "FITRIA MARLETTA, S.I.Kom",
+"status": "Guru",
+"token": "317063"
+},
+{
+"nama": "Gelfina Putri Angreni, S.M",
+"status": "Guru",
+"token": "131136"
+},
+{
+"nama": "Hary Satria Pratama, S.Kom",
+"status": "Guru",
+"token": "019361"
+},
+{
+"nama": "HELDA ARIFIN, S.Pd",
+"status": "Guru",
+"token": "411882"
+},
+{
+"nama": "Hendrik Purnomo, M.Pd",
+"status": "Guru",
+"token": "634404"
+},
+{
+"nama": "Iin Muthmainnah, S.Pd",
+"status": "Guru",
+"token": "386183"
+},
+{
+"nama": "INDANI, S.Pd",
+"status": "Guru",
+"token": "188895"
+},
+{
+"nama": "Indiana, S.Pd",
+"status": "Guru",
+"token": "695304"
+},
+{
+"nama": "Irma Ariani, S.Pd",
+"status": "Guru",
+"token": "474912"
+},
+{
+"nama": "Irma Yunita, M.Pd",
+"status": "Guru",
+"token": "948832"
+},
+{
+"nama": "Isti Herlena,S.E., M.TPd",
+"status": "Guru",
+"token": "555487"
+},
+{
+"nama": "ISURMIN, S.Pd",
+"status": "Guru",
+"token": "348703"
+},
+{
+"nama": "JAYA KUSUMA, S.Kom",
+"status": "Guru",
+"token": "976187"
+},
+{
+"nama": "JEFRINALDI, A.Md",
+"status": "Guru",
+"token": "515573"
+},
+{
+"nama": "JONI MERIONO, S.Kom",
+"status": "Guru",
+"token": "956196"
+},
+{
+"nama": "Jusmira, S.Pd",
+"status": "Guru",
+"token": "162552"
+},
+{
+"nama": "KHOTIMAH, S.Kom",
+"status": "Guru",
+"token": "677467"
+},
+{
+"nama": "Leiza Sumartina, S.Pd",
+"status": "Guru",
+"token": "813765"
+},
+{
+"nama": "LENA GULTOM, S.Pd",
+"status": "Guru",
+"token": "603629"
+},
+{
+"nama": "Lin Triana, S.Pd.I",
+"status": "Guru",
+"token": "899243"
+},
+{
+"nama": "Lira Mardianti, S.Pd",
+"status": "Guru",
+"token": "824875"
+},
+{
+"nama": "Lisa Hariani",
+"status": "Guru",
+"token": "828913"
+},
+{
+"nama": "Livia Hidayahsha",
+"status": "Guru",
+"token": "117561"
+},
+{
+"nama": "Lovi Triono, M.Pd",
+"status": "Guru",
+"token": "863162"
+},
+{
+"nama": "M. Teguh Saputra, S.E, M.Ak",
+"status": "Guru",
+"token": "348768"
+},
+{
+"nama": "M.Lucky Andhrieansyah, S.Pd",
+"status": "Guru",
+"token": "805906"
+},
+{
+"nama": "Marlina, S.Kom. M.Pd",
+"status": "Guru",
+"token": "625339"
+},
+{
+"nama": "Maryanti, S.Pd",
+"status": "Guru",
+"token": "511193"
+},
+{
+"nama": "Maryatul Aini, S.Pd",
+"status": "Guru",
+"token": "254086"
+},
+{
+"nama": "Mat Kukuh",
+"status": "Guru",
+"token": "184537"
+},
+{
+"nama": "Meriamsa Nainggolan, S.Pd.K",
+"status": "Guru",
+"token": "060513"
+},
+{
+"nama": "Merry Handayani, S,E",
+"status": "Guru",
+"token": "021310"
+},
+{
+"nama": "Moni Viverishanti, S.H",
+"status": "Guru",
+"token": "838665"
+},
+{
+"nama": "Muthahirin",
+"status": "Guru",
+"token": "474869"
+},
+{
+"nama": "Nabilatul Balqis, S.Kom",
+"status": "Guru",
+"token": "321899"
+},
+{
+"nama": "NAJAMUDIN, S.Kom",
+"status": "Guru",
+"token": "367969"
+},
+{
+"nama": "Nefi Amelia, S.Pd",
+"status": "Guru",
+"token": "886521"
+},
+{
+"nama": "NEFI SUSILAWATI, SE",
+"status": "Guru",
+"token": "146058"
+},
+{
+"nama": "Nela Oktaviani, S.M",
+"status": "Guru",
+"token": "771888"
+},
+{
+"nama": "Neni Restiana, S.Kom",
+"status": "Guru",
+"token": "406984"
+},
+{
+"nama": "Nita Ardila, S.Kom",
+"status": "Guru",
+"token": "005505"
+},
+{
+"nama": "NUGROHO HADI",
+"status": "Guru",
+"token": "644692"
+},
+{
+"nama": "Nuril, S.E., Gr.",
+"status": "Guru",
+"token": "571472"
+},
+{
+"nama": "Oktaviasari, S.Kep",
+"status": "Guru",
+"token": "532679"
+},
+{
+"nama": "Parida Yuniarti, S.Pd",
+"status": "Guru",
+"token": "247805"
+},
+{
+"nama": "R. Budhi Ernawa Panca Putra, S.E., M.Pd",
+"status": "Guru",
+"token": "557666"
+},
+{
+"nama": "Raaina, A.Md. Par, S.Kom",
+"status": "Guru",
+"token": "120088"
+},
+{
+"nama": "Rahmawati",
+"status": "Guru",
+"token": "075557"
+},
+{
+"nama": "Ratih Parliana, S.Pd",
+"status": "Guru",
+"token": "700334"
+},
+{
+"nama": "Ratnawati, S.Si",
+"status": "Guru",
+"token": "932968"
+},
+{
+"nama": "REKO NALDO",
+"status": "Guru",
+"token": "691637"
+},
+{
+"nama": "Rendra Adiman Samputra, S.Pd",
+"status": "Guru",
+"token": "285237"
+},
+{
+"nama": "Reni Nur Safitri, S.Sn",
+"status": "Guru",
+"token": "896326"
+},
+{
+"nama": "Reno Sari, S.Kom",
+"status": "Guru",
+"token": "546451"
+},
+{
+"nama": "Reza Resinta, S.Kom",
+"status": "Guru",
+"token": "429653"
+},
+{
+"nama": "Rika Aprianti, S.Pd.I",
+"status": "Guru",
+"token": "016832"
+},
+{
+"nama": "Rika Sasmita Sari, S.M",
+"status": "Guru",
+"token": "085134"
+},
+{
+"nama": "RIKE TANSEL,S.E",
+"status": "Guru",
+"token": "885857"
+},
+{
+"nama": "Risnawati Ananda, S.Pd",
+"status": "Guru",
+"token": "827385"
+},
+{
+"nama": "Risnetty, S.Pd",
+"status": "Guru",
+"token": "664372"
+},
+{
+"nama": "Rohani, S.Pd",
+"status": "Guru",
+"token": "679173"
+},
+{
+"nama": "Rosni, S.Pd",
+"status": "Guru",
+"token": "140775"
+},
+{
+"nama": "SATRIA ARIP DARPINTA, S.Pd",
+"status": "Guru",
+"token": "966542"
+},
+{
+"nama": "SATRIO NOVALDI, S.Pd",
+"status": "Guru",
+"token": "092081"
+},
+{
+"nama": "SEPTI HAMERNI, S.Pd",
+"status": "Guru",
+"token": "750002"
+},
+{
+"nama": "Setia Ningsih, S.Pd",
+"status": "Guru",
+"token": "147371"
+},
+{
+"nama": "Sismaini, S.Pd",
+"status": "Guru",
+"token": "333832"
+},
+{
+"nama": "SM. Lulinda Riska, S.Pd",
+"status": "Guru",
+"token": "676285"
+},
+{
+"nama": "SNI SUKMAINI, S.Pd",
+"status": "Guru",
+"token": "352165"
+},
+{
+"nama": "SRI HARTATI, M.Pd",
+"status": "Guru",
+"token": "376054"
+},
+{
+"nama": "Sri Noflesti, M.Pd",
+"status": "Guru",
+"token": "084127"
+},
+{
+"nama": "SUDARMONO",
+"status": "Guru",
+"token": "119844"
+},
+{
+"nama": "SUMYATI, S.I.Kom",
+"status": "Guru",
+"token": "767047"
+},
+{
+"nama": "Surti Sirait, M.Pd",
+"status": "Guru",
+"token": "987333"
+},
+{
+"nama": "Thomas Karterika, S.Pd",
+"status": "Guru",
+"token": "792516"
+},
+{
+"nama": "Tommy Julian, S.Pd",
+"status": "Guru",
+"token": "524308"
+},
+{
+"nama": "Tonsri, S.Kom., M.Pd",
+"status": "Guru",
+"token": "942513"
+},
+{
+"nama": "Tri Rose Apriana, S.E, M.Pd",
+"status": "Guru",
+"token": "738718"
+},
+{
+"nama": "Trie Utama Ardi, S.Pd",
+"status": "Guru",
+"token": "150035"
+},
+{
+"nama": "Ulfa Feliana, S.Pd",
+"status": "Guru",
+"token": "943568"
+},
+{
+"nama": "Ulina Yuliyati, S.Ak",
+"status": "Guru",
+"token": "755681"
+},
+{
+"nama": "Utari Dwi Sartika, M.Pd",
+"status": "Guru",
+"token": "565825"
+},
+{
+"nama": "Wanjoyo, S.Pd",
+"status": "Guru",
+"token": "249096"
+},
+{
+"nama": "WANNY ZULITA, S.Kom",
+"status": "Guru",
+"token": "945676"
+},
+{
+"nama": "WARONO",
+"status": "Guru",
+"token": "889727"
+},
+{
+"nama": "WIWIK MERSI, S.Kom",
+"status": "Guru",
+"token": "271758"
+},
+{
+"nama": "Yondra Erlandi, S.Pd",
+"status": "Guru",
+"token": "631854"
+},
+{
+"nama": "Yosi Meidalena, S.T",
+"status": "Guru",
+"token": "850400"
+},
+{
+"nama": "Yova Putriani, S.Pd",
+"status": "Guru",
+"token": "881267"
+},
+{
+"nama": "Yuli Yarti, S.Pd",
+"status": "Guru",
+"token": "694812"
+},
+{
+"nama": "Zarfeita, S.Pd",
+"status": "Guru",
+"token": "779924"
+},
+{
+"nama": "Zotman, S.Pd",
+"status": "Guru",
+"token": "216309"
+}
+]

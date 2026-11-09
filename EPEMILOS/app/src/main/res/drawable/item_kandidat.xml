@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="6dp"
+    app:cardBackgroundColor="#0F2A2A"
+    app:cardCornerRadius="10dp"
+    app:strokeColor="#2A4A4A"
+    app:strokeWidth="1dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="12dp"
+        android:gravity="center_vertical">
+
+        <TextView android:id="@+id/tvId" android:text="1" android:layout_width="0dp" android:layout_weight="0.5" android:textColor="#F9B637" android:textStyle="bold" android:gravity="center" android:textSize="14sp"/>
+        <TextView android:id="@+id/tvNoUrut" android:text="01" android:layout_width="0dp" android:layout_weight="0.8" android:textColor="#FFFFFF" android:gravity="center" android:textSize="14sp"/>
+        <TextView android:id="@+id/tvNama" android:text="Nama Kandidat" android:layout_width="0dp" android:layout_weight="1.5" android:textColor="#FFFFFF" android:textSize="14sp"/>
+        <ImageView android:id="@+id/ivFoto" android:layout_width="44dp" android:layout_height="44dp" android:scaleType="centerCrop" android:background="#33F9B637" android:layout_marginStart="8dp"/>
+    </LinearLayout>
+</com.google.android.material.card.MaterialCardView>

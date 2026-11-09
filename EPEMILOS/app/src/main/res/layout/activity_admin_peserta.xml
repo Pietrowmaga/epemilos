@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="#052B2B">
+
+    <!-- SIDEBAR (KIRI) -->
+    <LinearLayout
+        android:id="@+id/sidebar"
+        android:layout_width="160dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#082424"
+        android:padding="16dp"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="A Admin"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="24dp" />
+
+        <!-- Menu: Kandidat -->
+        <LinearLayout
+            android:id="@+id/menuKandidat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:padding="12dp"
+            android:layout_marginBottom="8dp"
+            android:clickable="true"
+            android:focusable="true">
+            <View android:layout_width="8dp" android:layout_height="8dp" android:background="#88FFFFFF" android:layout_marginEnd="8dp"/>
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Kandidat" android:textColor="#88FFFFFF" android:textSize="16sp"/>
+        </LinearLayout>
+
+        <!-- Menu: Peserta (Aktif) -->
+        <LinearLayout
+            android:id="@+id/menuPeserta"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:background="@drawable/bg_menu_active"
+            android:padding="12dp"
+            android:layout_marginBottom="8dp">
+            <View android:layout_width="8dp" android:layout_height="8dp" android:background="#F9B637" android:layout_marginEnd="8dp"/>
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Peserta" android:textColor="#F9B637" android:textSize="16sp" android:textStyle="bold"/>
+        </LinearLayout>
+
+        <!-- Menu: Hasil -->
+        <LinearLayout
+            android:id="@+id/menuHasil"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:padding="12dp"
+            android:layout_marginBottom="8dp"
+            android:clickable="true"
+            android:focusable="true">
+            <View android:layout_width="8dp" android:layout_height="8dp" android:background="#88FFFFFF" android:layout_marginEnd="8dp"/>
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/results" android:textColor="#88FFFFFF" android:textSize="16sp"/>
+        </LinearLayout>
+
+        <View android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"/>
+
+        <!-- TOMBOL LOGOUT -->
+        <Button
+            android:id="@+id/btnLogout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Logout"
+            android:backgroundTint="#8B0000"
+            android:textColor="#FFFFFF"/>
+    </LinearLayout>
+
+    <!-- KONTEN UTAMA (KANAN) -->
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_marginBottom="20dp">
+
+            <ImageView
+                android:id="@+id/btnToggleSidebar"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:src="@android:drawable/ic_menu_info_details"
+                app:tint="#F9B637"
+                android:layout_marginEnd="16dp"
+                android:clickable="true"
+                android:focusable="true"
+                android:contentDescription="Toggle Menu"
+                android:background="?attr/selectableItemBackgroundBorderless"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Data Peserta"
+                android:textColor="#F9B637"
+                android:textSize="22sp"
+                android:textStyle="bold"/>
+        </LinearLayout>
+
+        <!-- TOMBOL AKSI -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="20dp"
+            android:gravity="start">
+
+            <LinearLayout
+                android:id="@+id/btnTambahPeserta"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="60dp"
+                android:orientation="vertical"
+                android:gravity="center"
+                android:background="@drawable/bg_button_gold"
+                android:layout_marginEnd="12dp"
+                android:clickable="true"
+                android:focusable="true">
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:src="@android:drawable/ic_input_add"
+                    android:tint="#052B2B"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Tambah"
+                    android:textColor="#052B2B"
+                    android:textStyle="bold"
+                    android:layout_marginTop="4dp"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/btnHapusPeserta"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="60dp"
+                android:orientation="vertical"
+                android:gravity="center"
+                android:background="@drawable/bg_button_gold"
+                android:layout_marginEnd="12dp"
+                android:clickable="true"
+                android:focusable="true">
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:src="@android:drawable/ic_menu_delete"
+                    android:tint="#052B2B"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Hapus"
+                    android:textColor="#052B2B"
+                    android:textStyle="bold"
+                    android:layout_marginTop="4dp"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/btnUbahPeserta"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="60dp"
+                android:orientation="vertical"
+                android:gravity="center"
+                android:background="@drawable/bg_button_gold"
+                android:clickable="true"
+                android:focusable="true">
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:src="@android:drawable/ic_menu_edit"
+                    android:tint="#052B2B"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Ubah"
+                    android:textColor="#052B2B"
+                    android:textStyle="bold"
+                    android:layout_marginTop="4dp"/>
+            </LinearLayout>
+        </LinearLayout>
+
+        <!-- TABEL DATA -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:background="@drawable/bg_table_border"
+            android:padding="4dp">
+
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#1A3A3A"
+                android:padding="12dp">
+                <TableRow>
+                    <TextView android:text="ID" android:textColor="#F9B637" android:textStyle="bold" android:layout_width="0dp" android:layout_weight="1" android:gravity="center"/>
+                    <TextView android:text="Token" android:textColor="#F9B637" android:textStyle="bold" android:layout_width="0dp" android:layout_weight="1.5" android:gravity="center"/>
+                    <TextView android:text="Nama" android:textColor="#F9B637" android:textStyle="bold" android:layout_width="0dp" android:layout_weight="3" android:gravity="center"/>
+                    <TextView android:text="Status" android:textColor="#F9B637" android:textStyle="bold" android:layout_width="0dp" android:layout_weight="1.5" android:gravity="center"/>
+                    <TextView android:text="Voted?" android:textColor="#F9B637" android:textStyle="bold" android:layout_width="0dp" android:layout_weight="1.5" android:gravity="center"/>
+                </TableRow>
+            </TableLayout>
+
+            <View android:layout_width="match_parent" android:layout_height="2dp" android:background="#F9B637"/>
+
+            <HorizontalScrollView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:fillViewport="true">
+
+                <TableLayout
+                    android:id="@+id/tableDataPemilih"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:stretchColumns="*"
+                    android:showDividers="middle"
+                    android:divider="#33F9B637">
+                    <!-- Data will be populated programmatically -->
+                </TableLayout>
+            </HorizontalScrollView>
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>

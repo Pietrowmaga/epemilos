@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">E-PEMILOS</string>
+    <string name="school_logo_desc">Logo Sekolah</string>
+    <string name="digital_voting_system">Digital School Voting System</string>
+
+    <!-- Voter Login -->
+    <string name="voter_login">Voter Login</string>
+    <string name="full_name">Nama</string>
+    <string name="student_status">Status</string>
+    <string name="voter_token">Token</string>
+    <string name="btn_login_vote">Masuk</string>
+    <string name="login_as_admin">Masuk sebagai Admin</string>
+
+    <!-- Admin Login -->
+    <string name="admin_login">Admin Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="btn_login_admin">LOGIN ADMIN</string>
+
+    <!-- Admin Dashboard -->
+    <string name="dashboard">Dashboard</string>
+    <string name="candidates">Kandidat</string>
+    <string name="participants">Peserta</string>
+    <string name="results">Hasil</string>
+    <string name="add">Tambah</string>
+    <string name="edit">Ubah</string>
+    <string name="delete">Hapus</string>
+    <string name="paslon_format">Paslon 0%1$d: %2$s &amp; %3$s</string>
+    <string name="vote_count_format">Jumlah Suara: %1$d</string>
+    <string name="total_votes_format">Total Suara Masuk: %1$d</string>
+</resources>
